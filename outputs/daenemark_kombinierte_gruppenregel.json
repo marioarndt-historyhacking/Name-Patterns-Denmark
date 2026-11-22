@@ -1,0 +1,173 @@
+{
+  "scope": "Harald I. bis Waldemar III.; Namensfamilien mit mindestens drei Königen",
+  "rule": "Mindestens ein Paar je Namensfamilie mit exakt gleicher Regierungsdauer oder höchstens 1 Jahr Differenz des Jahresalters (Todesjahr minus Geburtsjahr)",
+  "age_caveat": "Nur Jahreszahlen; Tage und Monate werden nicht berücksichtigt. Bei circa- und Doppeljahrangaben werden die möglichen Jahresalter als Intervall geführt.",
+  "groups": {
+    "Erik": {
+      "n": 6,
+      "equal_reign_pairs": [
+        {
+          "ruler1": "Erik III. Lam",
+          "ruler2": "Erik IV.",
+          "reign_duration1": 9,
+          "reign_duration2": 9,
+          "age_years1": [
+            41,
+            46
+          ],
+          "age_years2": [
+            34,
+            34
+          ]
+        }
+      ],
+      "age_pairs_within_1": [
+        {
+          "ruler1": "Erik I. Ejegod",
+          "ruler2": "Erik III. Lam",
+          "reign_duration1": 8,
+          "reign_duration2": 9,
+          "age_years1": [
+            47,
+            47
+          ],
+          "age_years2": [
+            41,
+            46
+          ]
+        },
+        {
+          "ruler1": "Erik II. Emune",
+          "ruler2": "Erik V.",
+          "reign_duration1": 3,
+          "reign_duration2": 27,
+          "age_years1": [
+            37,
+            37
+          ],
+          "age_years2": [
+            37,
+            37
+          ]
+        },
+        {
+          "ruler1": "Erik III. Lam",
+          "ruler2": "Erik VI.",
+          "reign_duration1": 9,
+          "reign_duration2": 33,
+          "age_years1": [
+            41,
+            46
+          ],
+          "age_years2": [
+            45,
+            45
+          ]
+        }
+      ],
+      "rule_satisfied": true
+    },
+    "Harald": {
+      "n": 3,
+      "equal_reign_pairs": [
+        {
+          "ruler1": "Harald II. Svendsen",
+          "ruler2": "Harald III. Hen",
+          "reign_duration1": 4,
+          "reign_duration2": 4,
+          "age_years1": [
+            23,
+            23
+          ],
+          "age_years2": [
+            39,
+            39
+          ]
+        }
+      ],
+      "age_pairs_within_1": [],
+      "rule_satisfied": true
+    },
+    "Knut": {
+      "n": 5,
+      "equal_reign_pairs": [],
+      "age_pairs_within_1": [
+        {
+          "ruler1": "Knut II. der Große",
+          "ruler2": "Knut VI.",
+          "reign_duration1": 17,
+          "reign_duration2": 20,
+          "age_years1": [
+            40,
+            40
+          ],
+          "age_years2": [
+            39,
+            40
+          ]
+        }
+      ],
+      "rule_satisfied": true
+    },
+    "Sven": {
+      "n": 3,
+      "equal_reign_pairs": [
+        {
+          "ruler1": "Sven I. Gabelbart",
+          "ruler2": "Sven II. Estridsson",
+          "reign_duration1": 29,
+          "reign_duration2": 29,
+          "age_years1": [
+            51,
+            51
+          ],
+          "age_years2": [
+            56,
+            56
+          ]
+        }
+      ],
+      "age_pairs_within_1": [],
+      "rule_satisfied": true
+    },
+    "Waldemar": {
+      "n": 3,
+      "equal_reign_pairs": [],
+      "age_pairs_within_1": [
+        {
+          "ruler1": "Waldemar I. der Große",
+          "ruler2": "Waldemar III.",
+          "reign_duration1": 28,
+          "reign_duration2": 3,
+          "age_years1": [
+            51,
+            51
+          ],
+          "age_years2": [
+            50,
+            50
+          ]
+        }
+      ],
+      "rule_satisfied": true
+    }
+  },
+  "covered_groups": 5,
+  "eligible_groups": 5,
+  "permutation_test": {
+    "B": 200000,
+    "seed": 20261030,
+    "null": "Zufällige Neuverteilung der vorhandenen Namensetiketten bei festen Gruppengrößen",
+    "hits_at_least_observed": 2355,
+    "p": 0.011779941100294499,
+    "coverage_histogram": {
+      "0": 2821,
+      "1": 30343,
+      "2": 78366,
+      "3": 65227,
+      "4": 20888,
+      "5": 2355
+    },
+    "warning": "Post-hoc und explorativ: Schwelle, Mindestgruppengröße und ODER-Regel wurden nach Sichtung der dänischen Daten formuliert."
+  }
+}

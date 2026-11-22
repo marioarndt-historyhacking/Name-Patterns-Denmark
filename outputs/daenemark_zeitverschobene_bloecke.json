@@ -1,0 +1,24 @@
+{
+  "n": 34,
+  "definition": "Automatische Suche über Blocklänge und 0–2 Zwischenkönige; identische Namensfolge und konstanter Amtsantritts-Zeitversatz für alle korrespondierenden Positionen",
+  "observed_max_length": 3,
+  "hits": [
+    {
+      "length": 3,
+      "gap": 2,
+      "start1": 2,
+      "start2": 7,
+      "year_shift": 62
+    }
+  ],
+  "B": 200000,
+  "seed": 20261029,
+  "exceed": 95,
+  "p_search_corrected": 0.00047999760001199996,
+  "null_distribution": {
+    "0": 197288,
+    "2": 2617,
+    "3": 95
+  },
+  "date_note": "Primärwert Knut II = 1018; 1019 wird nur als Einjahres-Sensitivitätsvariante behandelt. Harald I ist für die Gesamthypothese auf 958 festgelegt."
+}

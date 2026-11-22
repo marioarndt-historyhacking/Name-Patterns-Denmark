@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore European monarchies and their rulers from 27 BCE to 2026.">
+  <meta name="theme-color" content="#fffdf9">
+  <title>The Braided Crowns of Europe</title>
+  <link rel="icon" href="assets/crown.svg" type="image/svg+xml"><link rel="stylesheet" href="assets/styles.css?v=20261014-lean-rendering">
+</head>
+<body>
+  <a class="skip-link" href="#search">Skip to the timeline</a>
+
+  <header class="site-header">
+    <a class="dp-navbar-brand" href="/projects/">Daniel Pradilla</a>
+    <nav class="dp-navbar-links" aria-label="Site navigation">
+      <a aria-current="page" href="index.html">Explore</a>
+      <button class="reading-guide-open" id="reading-guide-open" type="button" aria-haspopup="dialog" aria-controls="reading-guide">How to read this</button>
+      <a href="/blog/the-braided-crowns-of-europe/">Essay</a>
+      <a href="quality.html">Data quality</a>
+      <a href="/blog/the-braided-crowns-of-europe/">Blog</a>
+      <a href="https://github.com/danielpradilla/european-monarchies-timeline">GitHub</a>
+    </nav>
+    <details class="dp-navbar-menu">
+      <summary aria-label="Menu">&#9776;</summary>
+      <nav aria-label="Site navigation (mobile)">
+        <a aria-current="page" href="index.html">Explore</a>
+        <button class="reading-guide-open" id="reading-guide-open-mobile" type="button" aria-haspopup="dialog" aria-controls="reading-guide">How to read this</button>
+        <a href="/blog/the-braided-crowns-of-europe/">Essay</a>
+        <a href="quality.html">Data quality</a>
+        <a href="/blog/the-braided-crowns-of-europe/">Blog</a>
+        <a href="https://github.com/danielpradilla/european-monarchies-timeline">GitHub</a>
+      </nav>
+    </details>
+  </header>
+  <div class="dp-project-header">
+    <h1 id="timeline-heading"><a class="wordmark" href="index.html"><img src="assets/crown.svg" width="36" height="32" alt=""><span>The Braided Crowns of Europe</span></a></h1>
+  </div>
+
+  <main>
+    <section class="explorer" aria-label="Timeline">
+      <div class="explore-toolbar">
+        <search class="search-control">
+          <label class="sr-only" for="search">Jump to a monarch, dynasty, country or region</label>
+          <input id="search" type="search" placeholder="Find a ruler, dynasty, country or region" autocomplete="off" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="search-results">
+          <div id="search-panel" class="search-panel" hidden>
+            <ul id="search-results" role="listbox" aria-label="Places on the timeline"></ul>
+            <p id="search-status" role="status"></p>
+          </div>
+        </search>
+      </div>
+
+      <div class="snapshot-control">
+        <p class="snapshot-title"><label for="snapshot-year">Europe in</label> <output id="snapshot-year-output" for="snapshot-year">1519 CE</output></p>
+        <input id="snapshot-year" type="range" value="1519" step="1">
+        <p id="snapshot-summary" aria-live="polite"></p>
+      </div>
+
+      <div class="story-jumps" role="group" aria-label="Jump to a year">
+        <span>Jump to</span>
+        <div id="preset-buttons"></div>
+      </div>
+      <p id="house-focus-status" class="house-focus-status" role="status" hidden></p>
+
+      <div id="timeline-error" class="error-message" role="alert" hidden></div>
+
+      <div class="desktop-timeline" id="desktop-timeline" role="group" aria-label="Horizontal timeline of European monarchies">
+        <p class="status-line">Connection symbols sit below a country involved. Hover or focus for the countries and dates; click for details. Click a region heading to fold its rows.</p>
+        <div class="sticky-ruler">
+          <div class="sticky-ruler-label" aria-hidden="true">Year</div>
+          <div class="sticky-ruler-window"><div class="sticky-axis-layer" id="sticky-axis-layer" aria-hidden="true"></div><div class="ruler-year" id="ruler-year" role="slider" tabindex="0" aria-label="Timeline year" aria-orientation="horizontal"></div></div>
+        </div>
+        <div class="timeline-grid">
+          <div class="label-column" id="label-column"></div>
+          <div class="plot-scroller" id="plot-scroller">
+            <div class="plot-canvas" id="plot-canvas">
+              <div class="lane-layer" id="lane-layer"></div>
+              <svg class="relationship-layer" id="relationship-layer" aria-hidden="true"></svg>
+              <div class="relationship-controls-layer" id="relationship-controls-layer"></div>
+              <div class="crosshair" id="crosshair" aria-hidden="true"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mobile-timeline">
+        <p class="status-line">Scroll vertically to change year; swipe sideways to browse monarchies. Tap a house band to highlight its crowns, then Details to read about it. Other marks open details.</p>
+        <div class="column-header" id="column-header"><div class="column-header-track" id="column-header-track"></div></div>
+        <div class="vertical-scroller" id="vertical-scroller">
+          <div class="vertical-chart" id="vertical-chart" role="group" tabindex="-1" aria-label="Vertical timeline of European monarchies, one column per monarchy"></div>
+        </div>
+      </div>
+
+      <div class="legend" role="group" aria-label="Timeline legend">
+        <div class="legend-group">
+          <strong class="legend-heading">Bars</strong>
+          <span><i class="legend-bar phase" aria-hidden="true"></i>Period of monarchy</span>
+          <span><i class="legend-bar house" aria-hidden="true"></i>Ruling house, named on the bar (colours repeat, even side by side; read the name or select the bar)</span>
+        </div>
+        <div class="legend-group">
+          <strong class="legend-heading">Lines</strong>
+          <span><i class="legend-line personal" aria-hidden="true"></i>Shared rule (sometimes interrupted)</span>
+          <span><i class="legend-line state" aria-hidden="true"></i>Union or continuation</span>
+          <span><i class="legend-line rupture" aria-hidden="true"></i>Division, conquest or end</span>
+        </div>
+        <div class="legend-group">
+          <strong class="legend-heading">Symbols</strong>
+          <span><i class="legend-marker" data-symbol="◇" aria-hidden="true"><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 2.5 13.5 8 8 13.5 2.5 8Z"/></svg></i>Union</span>
+          <span><i class="legend-marker" data-symbol="+" aria-hidden="true"><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M3 8H13M8 3V13"/></svg></i>State union</span>
+          <span><i class="legend-marker" data-symbol="→" aria-hidden="true"><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M3 8H13M9 4l4 4-4 4"/></svg></i>Continuity</span>
+          <span><i class="legend-marker" data-symbol="↗" aria-hidden="true"><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M4 12l8-8M4 4h8v8"/></svg></i>Partition</span>
+          <span><i class="legend-marker" data-symbol="×" aria-hidden="true"><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M4 4l8 8M12 4l-8 8"/></svg></i>Conquest or dissolution</span>
+          <span><i class="legend-marker" data-symbol="↺" aria-hidden="true"><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M3 6a5.4 5.4 0 1 1 0 4M3 2.5V6h3.5"/></svg></i>Restoration</span>
+          <span><i class="legend-marker" data-symbol="↔" aria-hidden="true"><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M2.5 8h11M5.5 5l-3 3 3 3M10.5 5l3 3-3 3"/></svg></i>Reorganization</span>
+        </div>
+        <div class="legend-group">
+          <strong class="legend-heading">Reigns</strong>
+          <span><i class="legend-reign" aria-hidden="true"></i>Ruler, with a line spanning the reign</span>
+          <span><i class="legend-reign major" aria-hidden="true"></i>Major ruler, labelled</span>
+          <span><i class="legend-now" aria-hidden="true"></i>Monarchy that still exists</span>
+        </div>
+        <p class="status-line">Bars show periods of monarchy, colours show ruling houses, and dots show rulers.</p>
+      </div>
+
+      <button class="detail-toggle" id="detail-toggle" type="button" aria-controls="detail-panel" aria-expanded="false">
+        <span>Details</span>
+        <strong class="sr-only" id="detail-toggle-title">Europe in 1519</strong>
+      </button>
+
+      <dialog class="detail-panel" id="detail-panel" aria-live="polite" aria-labelledby="detail-title" aria-hidden="true" inert>
+        <div class="detail-panel-toolbar">
+          <p class="detail-type" id="detail-type">Snapshot</p>
+          <button class="detail-close" id="detail-close" type="button" aria-label="Close details">Close</button>
+        </div>
+        <div class="detail-primary">
+          <h2 id="detail-title" tabindex="-1" autofocus>Europe in 1519</h2>
+          <p class="detail-dates" id="detail-dates"></p>
+          <p id="detail-copy">Choose a year to compare rulers.</p>
+          <section id="detail-wikipedia" class="wikipedia-context"></section>
+          <section id="detail-evidence" class="detail-evidence"></section>
+        </div>
+        <div class="detail-secondary">
+          <h3 id="detail-secondary-title">Rulers</h3>
+          <ul id="detail-list"></ul>
+          <div id="detail-related"></div>
+          <details class="background-sources"><summary>Background reading</summary><div class="source-links" id="detail-sources"></div></details>
+        </div>
+      </dialog>
+
+      <dialog class="reading-guide" id="reading-guide" aria-labelledby="reading-guide-title">
+        <header class="reading-guide-head">
+          <div>
+            <p class="eyebrow">Reading guide</p>
+            <h2 id="reading-guide-title" tabindex="-1" autofocus>How to read this timeline</h2>
+          </div>
+          <button class="detail-close" id="reading-guide-close" type="button" aria-label="Close reading guide">Close</button>
+        </header>
+        <div class="reading-guide-body">
+          <p class="reading-guide-intro">Each row is one monarchy, and time runs left to right. Here is one real stretch of the chart: Scotland and England from 1590 to 1735.</p>
+          <figure class="reading-guide-figure">
+            <p class="reading-guide-swipe" aria-hidden="true">Swipe the example sideways</p>
+            <div class="reading-guide-scroll" tabindex="0" role="region" aria-label="Example diagram, scrolls sideways on narrow screens">
+            <svg viewBox="0 0 420 280" role="img" aria-labelledby="reading-guide-svg-title" aria-describedby="reading-guide-svg-desc">
+              <title id="reading-guide-svg-title">Example: Scotland, England and Great Britain, 1590 to 1735</title>
+              <desc id="reading-guide-svg-desc">Three rows. A union symbol in 1603 links Scotland and England when James VI of Scotland also becomes James I of England; each kingdom keeps its own bar. Both bars break in the 1650s, and a second union symbol marks the shared crown restored in 1660. A plus symbol in 1707 joins both to a new Great Britain row, where the Stuart and Hanover bands share one colour. A blue year line sits on 1707. The numbered steps after the figure explain each mark.</desc>
+              <g class="guide-axis">
+                <path class="guide-tick" d="M37.5 20V276M175 20V276M312.5 20V276"/>
+                <text x="37.5" y="14">1600</text>
+                <text x="175" y="14">1650</text>
+              </g>
+
+              <text class="guide-row-name" x="10" y="38">Scotland</text>
+              <rect class="guide-phase" x="10" y="44" width="167.75" height="24"/>
+              <rect class="guide-phase" x="202.5" y="44" width="129.25" height="24"/>
+              <rect class="guide-house" style="--house-color: #295f73" x="10" y="47" width="167.75" height="18"/>
+              <rect class="guide-house" style="--house-color: #295f73" x="202.5" y="47" width="129.25" height="18"/>
+              <text class="guide-house-name" x="84" y="59.5">Stuart</text>
+              <text class="guide-house-name" x="211" y="59.5">Stuart</text>
+              <rect class="guide-duration" x="10" y="75" width="96.25" height="2"/>
+
+              <text class="guide-row-name" x="10" y="128">England</text>
+              <rect class="guide-phase" x="10" y="134" width="162.25" height="24"/>
+              <rect class="guide-phase" x="202.5" y="134" width="129.25" height="24"/>
+              <rect class="guide-house" style="--house-color: #3f6d68" x="10" y="137" width="35.75" height="18"/>
+              <rect class="guide-house" style="--house-color: #295f73" x="45.75" y="137" width="126.5" height="18"/>
+              <rect class="guide-house" style="--house-color: #295f73" x="202.5" y="137" width="129.25" height="18"/>
+              <text class="guide-house-name" x="14" y="149.5">Tudor</text>
+              <text class="guide-house-name" x="80" y="149.5">Stuart</text>
+              <text class="guide-house-name" x="211" y="149.5">Stuart</text>
+              <rect class="guide-duration" x="45.75" y="165" width="60.5" height="2"/>
+              <rect class="guide-duration" x="318" y="165" width="13.75" height="2"/>
+
+              <text class="guide-row-name" x="10" y="218">Great Britain</text>
+              <rect class="guide-phase" x="331.75" y="224" width="77" height="24"/>
+              <rect class="guide-house" style="--house-color: #295f73" x="331.75" y="227" width="19.25" height="18"/>
+              <rect class="guide-house" style="--house-color: #295f73" x="351" y="227" width="57.75" height="18"/>
+              <text class="guide-house-name" x="357" y="239.5">Hanover</text>
+              <rect class="guide-duration" x="331.75" y="255" width="19.25" height="2"/>
+              <rect class="guide-duration" x="351" y="255" width="35.75" height="2"/>
+
+              <path class="guide-house-edge" d="M202.5 47h3v18h-3ZM45.75 137h3v18h-3ZM202.5 137h3v18h-3ZM331.75 227h3v18h-3ZM351 227h3v18h-3Z"/>
+              <path class="guide-phase-edge" d="M10 67.5H177.75M202.5 67.5H331.75M10 157.5H172.25M202.5 157.5H331.75M331.75 247.5H408.75"/>
+              <path class="guide-year-line" d="M331.75 20V276"/>
+
+              <path class="guide-link shared" d="M45.75 56C69.75 56 69.75 104 45.75 104M45.75 146C69.75 146 69.75 104 45.75 104"/>
+              <path class="guide-link shared" d="M202.5 56C226.5 56 226.5 104 202.5 104M202.5 146C226.5 146 226.5 104 202.5 104"/>
+              <path class="guide-link" d="M331.75 56C355.75 56 355.75 194 331.75 194M331.75 146C355.75 146 355.75 194 331.75 194M331.75 236C355.75 236 355.75 194 331.75 194"/>
+
+              <circle class="guide-reign major" cx="26.5" cy="76" r="6.5"/>
+              <circle class="guide-reign major" cx="76" cy="166" r="6.5"/>
+              <circle class="guide-reign" cx="324.875" cy="166" r="5.5"/>
+              <circle class="guide-reign major" cx="341.375" cy="256" r="6.5"/>
+              <circle class="guide-reign" cx="368.875" cy="256" r="5.5"/>
+              <text class="guide-reign-label" x="12" y="92">James VI and I</text>
+              <text class="guide-reign-label" x="76" y="182" text-anchor="middle">James VI and I</text>
+              <text class="guide-reign-label" x="341.375" y="272" text-anchor="middle">Anne</text>
+
+              <g class="guide-symbol" transform="translate(45.75 104)"><circle r="9"/><path transform="translate(-6 -6) scale(.75)" d="M8 2.5 13.5 8 8 13.5 2.5 8Z"/></g>
+              <g class="guide-symbol" transform="translate(202.5 104)"><circle r="9"/><path transform="translate(-6 -6) scale(.75)" d="M8 2.5 13.5 8 8 13.5 2.5 8Z"/></g>
+              <g class="guide-symbol" transform="translate(331.75 194)"><circle r="9"/><path transform="translate(-6 -6) scale(.75)" d="M3 8H13M8 3V13"/></g>
+
+              <g class="guide-year-flag"><rect x="306.75" y="3" width="50" height="16"/><text x="331.75" y="14.5">1707 CE</text></g>
+
+              <g class="guide-callout" transform="translate(190 56)"><circle r="8"/><text>1</text></g>
+              <g class="guide-callout" transform="translate(150 128)"><circle r="8"/><text>2</text></g>
+              <g class="guide-callout" transform="translate(392 216)"><circle r="8"/><text>3</text></g>
+              <g class="guide-callout" transform="translate(120 166)"><circle r="8"/><text>4</text></g>
+              <g class="guide-callout" transform="translate(22 104)"><circle r="8"/><text>5</text></g>
+              <g class="guide-callout" transform="translate(356 194)"><circle r="8"/><text>6</text></g>
+              <g class="guide-callout" transform="translate(370 11)"><circle r="8"/><text>7</text></g>
+            </svg>
+            </div>
+            <figcaption>Cut from the full chart: bars that touch the frame carry on beyond it. Only the three rows involved are drawn; Ireland, also part of both shared crowns, is left out.</figcaption>
+          </figure>
+
+          <ol class="reading-guide-steps">
+            <li><span class="guide-number" aria-hidden="true">1</span><p><strong>Grey bar: the monarchy exists.</strong> A break means no king or queen: England 1649–1660, Scotland 1651–1660.</p></li>
+            <li><span class="guide-number" aria-hidden="true">2</span><p><strong>Coloured band: the ruling house,</strong> named on the band. In England, Tudor gives way to Stuart in 1603.</p></li>
+            <li><span class="guide-number" aria-hidden="true">3</span><p><strong>Colours repeat.</strong> Stuart and Hanover share this blue in Great Britain. Read the name, or select the band when it is too short to carry one, like Stuart here. Colour says nothing about power or size.</p></li>
+            <li><span class="guide-number" aria-hidden="true">4</span><p><strong>Dot: one ruler,</strong> placed mid-reign; the thin line spans the reign. Blue, named dots are major rulers. This one is James’s English reign, 1603–1625.</p></li>
+            <li><span class="guide-number" aria-hidden="true">5</span><p><i class="legend-marker" aria-hidden="true"><svg viewBox="0 0 16 16" focusable="false"><path d="M8 2.5 13.5 8 8 13.5 2.5 8Z"/></svg></i> <strong>Union, 1603.</strong> James VI of Scotland also became James I of England. One king, two kingdoms: each kept its own parliament and laws, so each keeps its own row and its own dot for him. The second union symbol marks the shared crown restored in 1660.</p></li>
+            <li><span class="guide-number" aria-hidden="true">6</span><p><i class="legend-marker" aria-hidden="true"><svg viewBox="0 0 16 16" focusable="false"><path d="M3 8H13M8 3V13"/></svg></i> <strong>State union, 1707.</strong> England and Scotland end and Great Britain begins on a new row. Lines run from each symbol to every kingdom involved.</p></li>
+            <li><span class="guide-number" aria-hidden="true">7</span><p><strong>Blue year line:</strong> the selected year. Dates are whole years. At this boundary both rows include 1707, because the change happened within that year; it does not mean England and Great Britain existed at the same instant.</p></li>
+          </ol>
+
+          <section class="reading-guide-use" aria-labelledby="reading-guide-use-title">
+            <h3 id="reading-guide-use-title">Using the chart</h3>
+            <dl>
+              <div><dt>Select</dt><dd>Click or tap a phase bar, ruler dot or connection symbol for its dates, details and sources. With a mouse or keyboard, hover over or focus a symbol for a quick summary.</dd></div>
+              <div><dt>Houses</dt><dd>Click or tap a coloured house band to highlight every monarchy that house rules in the “Europe in” year; the others fade but stay usable. A new selection moves the year to the period’s start if needed. Change the year and the highlight follows. Click the band again, click an empty part of the chart, or press Escape to clear it. Selecting a ruler from another house also clears it; a ruler from the selected house keeps it. On a phone, the band leaves the chart visible; open Details to inspect the selected house.</dd></div>
+              <div><dt>Year</dt><dd>On the horizontal chart, drag the blue handle on the sticky ruler to change year. An off-center handle follows your pointer until it reaches the middle, then locks there as the chart pans beneath it. At either end, the handle moves toward the edge; drag it back to the middle to lock again. Sideways scrolling and Shift+wheel also change year, centering the playhead where the scroll limits allow. The horizontal scrollbar selects the year at the viewport center. Arrow keys, Home and End also work when focused.</dd></div>
+              <div><dt>On a phone</dt><dd>Time runs down the page and each monarchy is a column. Scroll up or down to change year: the horizontal blue line stays centered and the house highlights follow. At the date-range boundaries, the line moves away from the center. Swipe sideways to browse countries without changing year.</dd></div>
+              <div><dt>Lines</dt><dd>Dashed: a shared ruler or looser union, sometimes interrupted. Solid: a state union, continuity or reorganization. Dotted: a division, conquest or end. Dash-dot: a restoration.</dd></div>
+            </dl>
+            <h3>Other symbols</h3>
+            <ul class="reading-guide-symbols">
+              <li><i class="legend-marker" aria-hidden="true"><svg viewBox="0 0 16 16" focusable="false"><path d="M3 8H13M9 4l4 4-4 4"/></svg></i><span><strong>Continuity</strong> The crown carries on in a successor realm.</span></li>
+              <li><i class="legend-marker" aria-hidden="true"><svg viewBox="0 0 16 16" focusable="false"><path d="M4 12l8-8M4 4h8v8"/></svg></i><span><strong>Partition</strong> A realm is divided.</span></li>
+              <li><i class="legend-marker" aria-hidden="true"><svg viewBox="0 0 16 16" focusable="false"><path d="M4 4l8 8M12 4l-8 8"/></svg></i><span><strong>Conquest or dissolution</strong> A realm is taken over or comes to an end.</span></li>
+              <li><i class="legend-marker" aria-hidden="true"><svg viewBox="0 0 16 16" focusable="false"><path d="M3 6a5.4 5.4 0 1 1 0 4M3 2.5V6h3.5"/></svg></i><span><strong>Restoration</strong> A monarchy returns.</span></li>
+              <li><i class="legend-marker" aria-hidden="true"><svg viewBox="0 0 16 16" focusable="false"><path d="M2.5 8h11M5.5 5l-3 3 3 3M10.5 5l3 3-3 3"/></svg></i><span><strong>Reorganization</strong> A crown changes its rank or legal form.</span></li>
+            </ul>
+          </section>
+        </div>
+      </dialog>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>Code and original content: MIT. Wikipedia excerpts: CC BY-SA 4.0.</p>
+    <p><a href="https://github.com/danielpradilla/european-monarchies-timeline">GitHub</a></p>
+  </footer>
+
+  <div id="relationship-tooltip" class="relationship-tooltip" role="tooltip" popover="manual"></div>
+  <noscript><p class="error-message">Enable JavaScript to explore the timeline. The methodology, essay and data-quality report are available without it.</p></noscript>
+  <script src="assets/timeline-core.js?v=20260905e" defer></script>
+  <script src="data/timeline-data.js?v=20260930h" defer></script>
+  <script src="assets/app.js?v=20261014-lean-rendering" defer></script>
+</body>
+</html>

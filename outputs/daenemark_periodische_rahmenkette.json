@@ -1,0 +1,50 @@
+{
+  "n": 54,
+  "candidate_geometries": 79,
+  "definition": "Drei nichtüberlappende gleich lange Rahmenfenster; 0–2 Zwischenherrscher; Startjahre arithmetisch ±1; alle Längen/Positionen automatisch",
+  "observed_max_length": 8,
+  "observed_hits": [
+    {
+      "length": 8,
+      "starts_1based": [
+        2,
+        10,
+        20
+      ],
+      "gaps": [
+        0,
+        2
+      ],
+      "year_step": 122,
+      "frames": [
+        "Harald",
+        "Knut",
+        "Waldemar"
+      ],
+      "start_years": [
+        958,
+        1080,
+        1202
+      ]
+    }
+  ],
+  "B": 200000,
+  "seed": 20261029,
+  "exceed": 2644,
+  "p_search_corrected": 0.013224933875330623,
+  "null_distribution": {
+    "0": 188089,
+    "2": 1686,
+    "3": 1721,
+    "5": 1779,
+    "8": 780,
+    "12": 150,
+    "4": 1552,
+    "7": 887,
+    "6": 1642,
+    "9": 1098,
+    "10": 328,
+    "13": 131,
+    "14": 157
+  }
+}

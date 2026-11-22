@@ -1,0 +1,34 @@
+Liste,n,Muster,Maximallänge,Bestes_Fenster,Endzeitpunkt,p_roh,p_Holm_Land,p_Holm_global,global_signifikant
+England/GB,44,FIXED,4,George → George (Länge 4),1830,0.07104964475177625,0.21314893425532874,1.0,False
+England/GB,44,BOOKEND,30,William → William (Länge 30),1702,0.39819800900995495,0.7963960180199099,1.0,False
+England/GB,44,PAIR_ECHO,10,Edward → Richard (Länge 10),1485,0.993760031199844,0.993760031199844,1.0,False
+France,56,FIXED,4,Louis → Louis (Länge 4),1792,0.3807080964595177,1.0,1.0,False
+France,56,BOOKEND,23,Henry → Henry (Länge 23),1559,0.9725501372493137,1.0,1.0,False
+France,56,PAIR_ECHO,35,Louis → Charles (Länge 35),1498,0.6443367783161085,1.0,1.0,False
+Spain,20,FIXED,3,Philip → Philip (Länge 3),1665,0.16559917200413998,0.49679751601241995,1.0,False
+Spain,20,BOOKEND,6,Charles → Charles (Länge 6),1788,0.9975450122749386,1.0,1.0,False
+Spain,20,PAIR_ECHO,0,kein Treffer,—,1.0,1.0,1.0,False
+Portugal,39,FIXED,3,Philip → Philip (Länge 3),1621,0.18145409272953636,0.544362278188609,1.0,False
+Portugal,39,BOOKEND,27,Ferdinand → Ferdinand (Länge 27),1837,0.4558127209363953,0.9116254418727906,1.0,False
+Portugal,39,PAIR_ECHO,19,Afonso → Peter (Länge 19),1683,0.5330323348383258,0.9116254418727906,1.0,False
+Denmark,53,FIXED,0,kein Treffer,—,1.0,1.0,1.0,False
+Denmark,53,BOOKEND,24,Margaret → Margaret (Länge 24),2024,0.9635151824240878,1.0,1.0,False
+Denmark,53,PAIR_ECHO,9,Eric → Christopher (Länge 9),1448,0.9991300043499782,1.0,1.0,False
+Norway,68,FIXED,0,kein Treffer,—,1.0,1.0,1.0,False
+Norway,68,BOOKEND,47,Harald → Harald (Länge 47),2026,0.5189874050629747,1.0,1.0,False
+Norway,68,PAIR_ECHO,35,Eric → Haakon (Länge 35),1319,0.8693906530467348,1.0,1.0,False
+Sweden,68,FIXED,3,Charles → Charles (Länge 3),1718,0.36102319488402557,1.0,1.0,False
+Sweden,68,BOOKEND,27,Håkan → Håkan (Länge 27),1364,0.9954500227498863,1.0,1.0,False
+Sweden,68,PAIR_ECHO,24,Eric → John (Länge 24),1592,0.8886655566722167,1.0,1.0,False
+Poland,62,FIXED,0,kein Treffer,—,1.0,1.0,1.0,False
+Poland,62,BOOKEND,21,Casimir → Casimir (Länge 21),1370,0.9997800010999945,1.0,1.0,False
+Poland,62,PAIR_ECHO,15,Bolesław → Mieszko (Länge 15),1177,0.9767151164244179,1.0,1.0,False
+Hungary,49,FIXED,0,kein Treffer,—,1.0,1.0,1.0,False
+Hungary,49,BOOKEND,20,Charles → Charles (Länge 20),1712,0.9998350008249959,1.0,1.0,False
+Hungary,49,PAIR_ECHO,6,Béla → Géza (Länge 6),1141,0.557797211013945,1.0,1.0,False
+Scotland,24,FIXED,5,James → James (Länge 5),1542,0.0027249863750681246,0.008174959125204374,0.08992455037724811,False
+Scotland,24,BOOKEND,9,David → David (Länge 9),1371,0.9915500422497887,1.0,1.0,False
+Scotland,24,PAIR_ECHO,0,kein Treffer,—,1.0,1.0,1.0,False
+Russia,32,FIXED,0,kein Treffer,—,1.0,1.0,1.0,False
+Russia,32,BOOKEND,14,Ivan → Ivan (Länge 14),1741,0.9882200588997055,1.0,1.0,False
+Russia,32,PAIR_ECHO,8,Peter → Catherine (Länge 8),1796,0.22131389343053284,0.6639416802915985,1.0,False

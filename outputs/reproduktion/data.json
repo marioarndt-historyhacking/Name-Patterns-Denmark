@@ -1,0 +1,3886 @@
+{
+  "sources": {
+    "England/GB": "https://github.com/mzemel/monarchs (dataset.json; accessed 2026-10-29)",
+    "France": "https://github.com/mzemel/monarchs (dataset.json; accessed 2026-10-29)",
+    "Spain": "https://github.com/mzemel/monarchs (dataset.json; accessed 2026-10-29)",
+    "Portugal": "https://en.wikipedia.org/wiki/List_of_Portuguese_monarchs",
+    "Denmark": "https://github.com/mzemel/monarchs (dataset.json; accessed 2026-10-29)",
+    "Norway": "https://en.wikipedia.org/wiki/List_of_Norwegian_monarchs",
+    "Sweden": "https://en.wikipedia.org/wiki/List_of_Swedish_monarchs",
+    "Poland": "https://en.wikipedia.org/wiki/List_of_Polish_monarchs",
+    "Hungary": "https://en.wikipedia.org/wiki/List_of_Hungarian_monarchs",
+    "Bohemia": "https://en.wikipedia.org/wiki/List_of_Bohemian_monarchs (excluded: table is not a single chronological crown sequence)",
+    "Scotland": "https://github.com/mzemel/monarchs (dataset.json; accessed 2026-10-29)",
+    "Russia": "https://github.com/mzemel/monarchs (dataset.json; accessed 2026-10-29)",
+    "HRR": "https://github.com/mzemel/monarchs (dataset.json; accessed 2026-10-29)"
+  },
+  "lists": {
+    "England/GB": [
+      {
+        "raw": "William I",
+        "name": "William",
+        "start": 1066,
+        "end": 1087,
+        "table": "curated"
+      },
+      {
+        "raw": "William II",
+        "name": "William",
+        "start": 1087,
+        "end": 1100,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry I",
+        "name": "Henry",
+        "start": 1100,
+        "end": 1135,
+        "table": "curated"
+      },
+      {
+        "raw": "Stephen",
+        "name": "Stephen",
+        "start": 1135,
+        "end": 1154,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry II",
+        "name": "Henry",
+        "start": 1154,
+        "end": 1189,
+        "table": "curated"
+      },
+      {
+        "raw": "Richard I",
+        "name": "Richard",
+        "start": 1189,
+        "end": 1199,
+        "table": "curated"
+      },
+      {
+        "raw": "John",
+        "name": "John",
+        "start": 1199,
+        "end": 1216,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry III",
+        "name": "Henry",
+        "start": 1216,
+        "end": 1272,
+        "table": "curated"
+      },
+      {
+        "raw": "Edward I",
+        "name": "Edward",
+        "start": 1272,
+        "end": 1307,
+        "table": "curated"
+      },
+      {
+        "raw": "Edward II",
+        "name": "Edward",
+        "start": 1307,
+        "end": 1327,
+        "table": "curated"
+      },
+      {
+        "raw": "Edward III",
+        "name": "Edward",
+        "start": 1327,
+        "end": 1377,
+        "table": "curated"
+      },
+      {
+        "raw": "Richard II",
+        "name": "Richard",
+        "start": 1377,
+        "end": 1399,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry IV",
+        "name": "Henry",
+        "start": 1399,
+        "end": 1413,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry V",
+        "name": "Henry",
+        "start": 1413,
+        "end": 1422,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry VI",
+        "name": "Henry",
+        "start": 1422,
+        "end": 1461,
+        "table": "curated"
+      },
+      {
+        "raw": "Edward IV",
+        "name": "Edward",
+        "start": 1461,
+        "end": 1470,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry VI ",
+        "name": "Henry",
+        "start": 1470,
+        "end": 1471,
+        "table": "curated"
+      },
+      {
+        "raw": "Edward IV ",
+        "name": "Edward",
+        "start": 1471,
+        "end": 1483,
+        "table": "curated"
+      },
+      {
+        "raw": "Edward V",
+        "name": "Edward",
+        "start": 1483,
+        "end": 1483,
+        "table": "curated"
+      },
+      {
+        "raw": "Richard III",
+        "name": "Richard",
+        "start": 1483,
+        "end": 1485,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry VII",
+        "name": "Henry",
+        "start": 1485,
+        "end": 1509,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry VIII",
+        "name": "Henry",
+        "start": 1509,
+        "end": 1547,
+        "table": "curated"
+      },
+      {
+        "raw": "Edward VI",
+        "name": "Edward",
+        "start": 1547,
+        "end": 1553,
+        "table": "curated"
+      },
+      {
+        "raw": "Jane Grey",
+        "name": "Jane",
+        "start": 1553,
+        "end": 1553,
+        "table": "curated"
+      },
+      {
+        "raw": "Mary I",
+        "name": "Mary",
+        "start": 1553,
+        "end": 1558,
+        "table": "curated"
+      },
+      {
+        "raw": "Elizabeth I",
+        "name": "Elizabeth",
+        "start": 1558,
+        "end": 1603,
+        "table": "curated"
+      },
+      {
+        "raw": "James I",
+        "name": "James",
+        "start": 1603,
+        "end": 1625,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles I",
+        "name": "Charles",
+        "start": 1625,
+        "end": 1649,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles II",
+        "name": "Charles",
+        "start": 1660,
+        "end": 1685,
+        "table": "curated"
+      },
+      {
+        "raw": "James II",
+        "name": "James",
+        "start": 1685,
+        "end": 1688,
+        "table": "curated"
+      },
+      {
+        "raw": "William III",
+        "name": "William",
+        "start": 1688,
+        "end": 1702,
+        "table": "curated"
+      },
+      {
+        "raw": "Anne",
+        "name": "Anne",
+        "start": 1702,
+        "end": 1714,
+        "table": "curated"
+      },
+      {
+        "raw": "George I",
+        "name": "George",
+        "start": 1714,
+        "end": 1727,
+        "table": "curated"
+      },
+      {
+        "raw": "George II",
+        "name": "George",
+        "start": 1727,
+        "end": 1760,
+        "table": "curated"
+      },
+      {
+        "raw": "George III",
+        "name": "George",
+        "start": 1760,
+        "end": 1820,
+        "table": "curated"
+      },
+      {
+        "raw": "George IV",
+        "name": "George",
+        "start": 1820,
+        "end": 1830,
+        "table": "curated"
+      },
+      {
+        "raw": "William IV",
+        "name": "William",
+        "start": 1830,
+        "end": 1837,
+        "table": "curated"
+      },
+      {
+        "raw": "Victoria",
+        "name": "Victoria",
+        "start": 1837,
+        "end": 1901,
+        "table": "curated"
+      },
+      {
+        "raw": "Edward VII",
+        "name": "Edward",
+        "start": 1901,
+        "end": 1910,
+        "table": "curated"
+      },
+      {
+        "raw": "George V",
+        "name": "George",
+        "start": 1910,
+        "end": 1936,
+        "table": "curated"
+      },
+      {
+        "raw": "Edward VIII",
+        "name": "Edward",
+        "start": 1936,
+        "end": 1936,
+        "table": "curated"
+      },
+      {
+        "raw": "George VI",
+        "name": "George",
+        "start": 1936,
+        "end": 1952,
+        "table": "curated"
+      },
+      {
+        "raw": "Elizabeth II",
+        "name": "Elizabeth",
+        "start": 1952,
+        "end": 2022,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles III",
+        "name": "Charles",
+        "start": 2022,
+        "end": null,
+        "table": "current-update"
+      }
+    ],
+    "France": [
+      {
+        "raw": "Pepin the Short",
+        "name": "Pepin",
+        "start": 751,
+        "end": 768,
+        "table": "curated"
+      },
+      {
+        "raw": "Carloman I",
+        "name": "Carloman",
+        "start": 768,
+        "end": 771,
+        "table": "curated"
+      },
+      {
+        "raw": "Charlemagne",
+        "name": "Charlemagne",
+        "start": 768,
+        "end": 814,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis the Pious",
+        "name": "Louis",
+        "start": 814,
+        "end": 840,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles the Bald",
+        "name": "Charles",
+        "start": 843,
+        "end": 877,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis II",
+        "name": "Louis",
+        "start": 877,
+        "end": 879,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis III",
+        "name": "Louis",
+        "start": 879,
+        "end": 882,
+        "table": "curated"
+      },
+      {
+        "raw": "Carloman II",
+        "name": "Carloman",
+        "start": 879,
+        "end": 884,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles the Fat",
+        "name": "Charles",
+        "start": 884,
+        "end": 888,
+        "table": "curated"
+      },
+      {
+        "raw": "Odo",
+        "name": "Odo",
+        "start": 888,
+        "end": 898,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles III",
+        "name": "Charles",
+        "start": 898,
+        "end": 922,
+        "table": "curated"
+      },
+      {
+        "raw": "Robert I",
+        "name": "Robert",
+        "start": 922,
+        "end": 923,
+        "table": "curated"
+      },
+      {
+        "raw": "Rudolph",
+        "name": "Rudolph",
+        "start": 923,
+        "end": 936,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis IV",
+        "name": "Louis",
+        "start": 936,
+        "end": 954,
+        "table": "curated"
+      },
+      {
+        "raw": "Lothair III",
+        "name": "Lothair",
+        "start": 954,
+        "end": 986,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis V",
+        "name": "Louis",
+        "start": 986,
+        "end": 987,
+        "table": "curated"
+      },
+      {
+        "raw": "Hugh Capet",
+        "name": "Hugh",
+        "start": 987,
+        "end": 996,
+        "table": "curated"
+      },
+      {
+        "raw": "Robert II",
+        "name": "Robert",
+        "start": 996,
+        "end": 1031,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry I",
+        "name": "Henry",
+        "start": 1031,
+        "end": 1060,
+        "table": "curated"
+      },
+      {
+        "raw": "Philip I",
+        "name": "Philip",
+        "start": 1060,
+        "end": 1108,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis VI",
+        "name": "Louis",
+        "start": 1108,
+        "end": 1137,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis VII",
+        "name": "Louis",
+        "start": 1137,
+        "end": 1180,
+        "table": "curated"
+      },
+      {
+        "raw": "Philip II",
+        "name": "Philip",
+        "start": 1180,
+        "end": 1223,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis VIII",
+        "name": "Louis",
+        "start": 1223,
+        "end": 1226,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis IX",
+        "name": "Louis",
+        "start": 1226,
+        "end": 1270,
+        "table": "curated"
+      },
+      {
+        "raw": "Philip III",
+        "name": "Philip",
+        "start": 1270,
+        "end": 1285,
+        "table": "curated"
+      },
+      {
+        "raw": "Philip IV",
+        "name": "Philip",
+        "start": 1285,
+        "end": 1314,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis X",
+        "name": "Louis",
+        "start": 1314,
+        "end": 1316,
+        "table": "curated"
+      },
+      {
+        "raw": "John I",
+        "name": "John",
+        "start": 1316,
+        "end": 1316,
+        "table": "curated"
+      },
+      {
+        "raw": "Philip V",
+        "name": "Philip",
+        "start": 1316,
+        "end": 1322,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles IV",
+        "name": "Charles",
+        "start": 1322,
+        "end": 1328,
+        "table": "curated"
+      },
+      {
+        "raw": "Philip VI",
+        "name": "Philip",
+        "start": 1328,
+        "end": 1350,
+        "table": "curated"
+      },
+      {
+        "raw": "John II",
+        "name": "John",
+        "start": 1350,
+        "end": 1364,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles V",
+        "name": "Charles",
+        "start": 1364,
+        "end": 1380,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles VI",
+        "name": "Charles",
+        "start": 1380,
+        "end": 1422,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles VII",
+        "name": "Charles",
+        "start": 1422,
+        "end": 1461,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis XI",
+        "name": "Louis",
+        "start": 1461,
+        "end": 1483,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles VIII",
+        "name": "Charles",
+        "start": 1483,
+        "end": 1498,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis XII",
+        "name": "Louis",
+        "start": 1498,
+        "end": 1515,
+        "table": "curated"
+      },
+      {
+        "raw": "Francis I",
+        "name": "Francis",
+        "start": 1515,
+        "end": 1547,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry II",
+        "name": "Henry",
+        "start": 1547,
+        "end": 1559,
+        "table": "curated"
+      },
+      {
+        "raw": "Francis II",
+        "name": "Francis",
+        "start": 1559,
+        "end": 1560,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles IX",
+        "name": "Charles",
+        "start": 1560,
+        "end": 1574,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry III",
+        "name": "Henry",
+        "start": 1574,
+        "end": 1589,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry IV",
+        "name": "Henry",
+        "start": 1589,
+        "end": 1610,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis XIII",
+        "name": "Louis",
+        "start": 1610,
+        "end": 1643,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis XIV",
+        "name": "Louis",
+        "start": 1643,
+        "end": 1715,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis XV",
+        "name": "Louis",
+        "start": 1715,
+        "end": 1774,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis XVI",
+        "name": "Louis",
+        "start": 1774,
+        "end": 1792,
+        "table": "curated"
+      },
+      {
+        "raw": "Napoleon I",
+        "name": "Napoleon",
+        "start": 1804,
+        "end": 1814,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis XVIII",
+        "name": "Louis",
+        "start": 1814,
+        "end": 1815,
+        "table": "curated"
+      },
+      {
+        "raw": "Napoleon I ",
+        "name": "Napoleon",
+        "start": 1815,
+        "end": 1815,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis XVIII ",
+        "name": "Louis",
+        "start": 1815,
+        "end": 1824,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles X",
+        "name": "Charles",
+        "start": 1824,
+        "end": 1830,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis Philippe I",
+        "name": "Louis",
+        "start": 1830,
+        "end": 1848,
+        "table": "curated"
+      },
+      {
+        "raw": "Napoleon III",
+        "name": "Napoleon",
+        "start": 1852,
+        "end": 1870,
+        "table": "curated"
+      }
+    ],
+    "Spain": [
+      {
+        "raw": "Philip II",
+        "name": "Philip",
+        "start": 1556,
+        "end": 1598,
+        "table": "curated"
+      },
+      {
+        "raw": "Philip III",
+        "name": "Philip",
+        "start": 1598,
+        "end": 1621,
+        "table": "curated"
+      },
+      {
+        "raw": "Philip IV",
+        "name": "Philip",
+        "start": 1621,
+        "end": 1665,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles II",
+        "name": "Charles",
+        "start": 1665,
+        "end": 1700,
+        "table": "curated"
+      },
+      {
+        "raw": "Philip V",
+        "name": "Philip",
+        "start": 1700,
+        "end": 1724,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis I",
+        "name": "Louis",
+        "start": 1724,
+        "end": 1724,
+        "table": "curated"
+      },
+      {
+        "raw": "Philip V ",
+        "name": "Philip",
+        "start": 1724,
+        "end": 1746,
+        "table": "curated"
+      },
+      {
+        "raw": "Ferdinand VI",
+        "name": "Ferdinand",
+        "start": 1746,
+        "end": 1759,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles III",
+        "name": "Charles",
+        "start": 1759,
+        "end": 1788,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles IV",
+        "name": "Charles",
+        "start": 1788,
+        "end": 1808,
+        "table": "curated"
+      },
+      {
+        "raw": "Ferdinand VII",
+        "name": "Ferdinand",
+        "start": 1808,
+        "end": 1808,
+        "table": "curated"
+      },
+      {
+        "raw": "Joseph Bonaparte",
+        "name": "Joseph",
+        "start": 1808,
+        "end": 1813,
+        "table": "curated"
+      },
+      {
+        "raw": "Ferdinand VII ",
+        "name": "Ferdinand",
+        "start": 1813,
+        "end": 1833,
+        "table": "curated"
+      },
+      {
+        "raw": "Isabella II",
+        "name": "Isabella",
+        "start": 1833,
+        "end": 1868,
+        "table": "curated"
+      },
+      {
+        "raw": "Amadeo I",
+        "name": "Amadeo",
+        "start": 1870,
+        "end": 1873,
+        "table": "curated"
+      },
+      {
+        "raw": "Alfonso XII",
+        "name": "Alfonso",
+        "start": 1874,
+        "end": 1885,
+        "table": "curated"
+      },
+      {
+        "raw": "Alfonso XIII",
+        "name": "Alfonso",
+        "start": 1886,
+        "end": 1931,
+        "table": "curated"
+      },
+      {
+        "raw": "Francisco Franco",
+        "name": "Francisco",
+        "start": 1936,
+        "end": 1975,
+        "table": "curated"
+      },
+      {
+        "raw": "Juan Carlos I",
+        "name": "Juan",
+        "start": 1975,
+        "end": 2014,
+        "table": "curated"
+      },
+      {
+        "raw": "Felipe VI",
+        "name": "Felipe",
+        "start": 2014,
+        "end": 2019,
+        "table": "curated"
+      }
+    ],
+    "Portugal": [
+      {
+        "raw": "Afonso IThe Conqueror; The Great; The Founder; The Father of the NationPortuguese: Afonso Henriques",
+        "name": "Afonso",
+        "start": 1139,
+        "end": 1139,
+        "table": 1
+      },
+      {
+        "raw": "Sancho IThe Populator",
+        "name": "Sancho",
+        "start": 1185,
+        "end": 1185,
+        "table": 1
+      },
+      {
+        "raw": "Afonso IIThe Fat; The Leprous; The Lawgiver",
+        "name": "Afonso",
+        "start": 1211,
+        "end": 1211,
+        "table": 1
+      },
+      {
+        "raw": "Sancho IIThe Cowled; The Pious",
+        "name": "Sancho",
+        "start": 1223,
+        "end": 1223,
+        "table": 1
+      },
+      {
+        "raw": "Afonso IIIThe Boulonnais",
+        "name": "Afonso",
+        "start": 1248,
+        "end": 1248,
+        "table": 1
+      },
+      {
+        "raw": "Denis IThe Farmer; The Farmer-King; The Husbandman; The Poet; The Poet-King; The Troubadour; The Just; The LiberalPortuguese: Dinis I",
+        "name": "Denis",
+        "start": 1279,
+        "end": 1279,
+        "table": 1
+      },
+      {
+        "raw": "Afonso IVThe Brave; The Bold",
+        "name": "Afonso",
+        "start": 1325,
+        "end": 1325,
+        "table": 1
+      },
+      {
+        "raw": "Peter IThe Cruel; The Just; The Enemy-Son; The Stutterer; The Till-the-End-of-the-World-Passionate; The Vengeful; The RevengefulPortuguese: Pedro I",
+        "name": "Peter",
+        "start": 1357,
+        "end": 1357,
+        "table": 1
+      },
+      {
+        "raw": "Ferdinand IThe Handsome; The Fair; The Debonair; The Inconstant; The Fickle; The InconscientPortuguese: Fernando I",
+        "name": "Ferdinand",
+        "start": 1367,
+        "end": 1367,
+        "table": 1
+      },
+      {
+        "raw": "BeatricePortuguese: Beatriz",
+        "name": "Beatrice",
+        "start": 1383,
+        "end": 1383,
+        "table": 1
+      },
+      {
+        "raw": "John IOf Good Memory; The One with Good Memory; Of Fond Memory; The Master of Avis; The Good; The Great; The BastardPortuguese: João I",
+        "name": "John",
+        "start": 1385,
+        "end": 1385,
+        "table": 2
+      },
+      {
+        "raw": "EdwardThe Eloquent; The Philosopher; The Philosopher-KingPortuguese: Duarte I",
+        "name": "Edward",
+        "start": 1433,
+        "end": 1433,
+        "table": 2
+      },
+      {
+        "raw": "Afonso VThe African; The Crusader",
+        "name": "Afonso",
+        "start": 1477,
+        "end": 1477,
+        "table": 2
+      },
+      {
+        "raw": "John IIThe Perfect Prince; The Man (O Homem)Portuguese: João II",
+        "name": "John",
+        "start": 1481,
+        "end": 1481,
+        "table": 2
+      },
+      {
+        "raw": "Manuel IThe Fortunate; The Grocer King/The Spices King (O Rei das Especiarias)",
+        "name": "Manuel",
+        "start": 1495,
+        "end": 1495,
+        "table": 2
+      },
+      {
+        "raw": "John IIIThe Pious; The ColonizerPortuguese: João III",
+        "name": "John",
+        "start": 1521,
+        "end": 1521,
+        "table": 2
+      },
+      {
+        "raw": "Sebastian IThe Desired; The Sleeping Hero; The Sleeping King; The Hidden; The Crusader; The Virgin KingPortuguese: Sebastião I",
+        "name": "Sebastian",
+        "start": 1557,
+        "end": 1557,
+        "table": 2
+      },
+      {
+        "raw": "Henry IThe Chaste; The Cardinal; The Cardinal-KingPortuguese: Henrique I",
+        "name": "Henry",
+        "start": 1578,
+        "end": 1578,
+        "table": 2
+      },
+      {
+        "raw": "Anthony IThe Prior of Crato; The Determined; The Fighter; The Resistant; The IndependentistPortuguese: António I",
+        "name": "Anthony",
+        "start": 1580,
+        "end": 1580,
+        "table": 2
+      },
+      {
+        "raw": "Philip IThe PrudentPortuguese: Filipe I",
+        "name": "Philip",
+        "start": 1581,
+        "end": 1581,
+        "table": 3
+      },
+      {
+        "raw": "Philip IIThe PiousPortuguese: Filipe II",
+        "name": "Philip",
+        "start": 1598,
+        "end": 1598,
+        "table": 3
+      },
+      {
+        "raw": "Philip IIIThe Great; The Tyrant; The OppressorPortuguese: Filipe III",
+        "name": "Philip",
+        "start": 1621,
+        "end": 1621,
+        "table": 3
+      },
+      {
+        "raw": "John IVThe Restorer; The Fortunate; The Musician KingPortuguese: João IV",
+        "name": "John",
+        "start": 1640,
+        "end": 1640,
+        "table": 4
+      },
+      {
+        "raw": "Afonso VIThe Victorious",
+        "name": "Afonso",
+        "start": 1656,
+        "end": 1656,
+        "table": 4
+      },
+      {
+        "raw": "Peter IIThe PacificPortuguese: Pedro II",
+        "name": "Peter",
+        "start": 1683,
+        "end": 1683,
+        "table": 4
+      },
+      {
+        "raw": "John VThe Magnanimous; The Magnificent; The Generous; The Most Faithful King; The Nuns' Lover; The Portuguese Sun-KingPortuguese: João V",
+        "name": "John",
+        "start": 1706,
+        "end": 1706,
+        "table": 4
+      },
+      {
+        "raw": "Joseph IThe ReformerPortuguese: José I",
+        "name": "Joseph",
+        "start": 1750,
+        "end": 1750,
+        "table": 4
+      },
+      {
+        "raw": "Maria IThe Pious; The Mad",
+        "name": "Maria",
+        "start": 1777,
+        "end": 1777,
+        "table": 4
+      },
+      {
+        "raw": "Peter IIIThe Capacidónio; The Builder; The Edifier; The Sacristan; The EnablerPortuguese: Pedro III",
+        "name": "Peter",
+        "start": 1777,
+        "end": 1777,
+        "table": 4
+      },
+      {
+        "raw": "John VIThe Clement; The MercifulPortuguese: João VI",
+        "name": "John",
+        "start": 1816,
+        "end": 1816,
+        "table": 4
+      },
+      {
+        "raw": "Peter IVThe Soldier King; The Liberator; The Emperor; The Hero of Two WorldsPortuguese: Pedro IV",
+        "name": "Peter",
+        "start": 1826,
+        "end": 1826,
+        "table": 4
+      },
+      {
+        "raw": "Maria II (1st reign)The Educator; The Good Mother",
+        "name": "Maria",
+        "start": 1826,
+        "end": 1826,
+        "table": 4
+      },
+      {
+        "raw": "Miguel IThe Absolutist; The Traditionalist; The Usurper",
+        "name": "Miguel",
+        "start": 1828,
+        "end": 1828,
+        "table": 4
+      },
+      {
+        "raw": "Maria II (2nd reign)The Educator; The Good Mother",
+        "name": "Maria",
+        "start": 1834,
+        "end": 1834,
+        "table": 4
+      },
+      {
+        "raw": "Ferdinand IIThe Artist KingPortuguese: Fernando II",
+        "name": "Ferdinand",
+        "start": 1837,
+        "end": 1837,
+        "table": 4
+      },
+      {
+        "raw": "Peter VThe Hopeful; The Beloved; The Well-BelovedPortuguese: Pedro V",
+        "name": "Peter",
+        "start": 1853,
+        "end": 1853,
+        "table": 4
+      },
+      {
+        "raw": "Luís IThe Popular; The Musician King; The Painter King",
+        "name": "Louis",
+        "start": 1861,
+        "end": 1861,
+        "table": 4
+      },
+      {
+        "raw": "Carlos IThe Diplomat; The Martyr; The Martyred; The Oceanographer; The Hunter; The Painter King; The Obese",
+        "name": "Carlos",
+        "start": 1889,
+        "end": 1889,
+        "table": 4
+      },
+      {
+        "raw": "Manuel IIThe Patriot; The Sorrowful; The Unfortunate; The Studious; The Scholar; The Erudite; The Learned; The Bibliophile; The Missed-King",
+        "name": "Manuel",
+        "start": 1908,
+        "end": 1908,
+        "table": 4
+      }
+    ],
+    "Denmark": [
+      {
+        "raw": "Gorm",
+        "name": "Gorm",
+        "start": 936,
+        "end": 958,
+        "table": "curated"
+      },
+      {
+        "raw": "Harald Bluetooth",
+        "name": "Harald",
+        "start": 958,
+        "end": 986,
+        "table": "curated"
+      },
+      {
+        "raw": "Sweyn Forkbeard",
+        "name": "Sweyn",
+        "start": 986,
+        "end": 1014,
+        "table": "curated"
+      },
+      {
+        "raw": "Harald II",
+        "name": "Harald",
+        "start": 1014,
+        "end": 1018,
+        "table": "curated"
+      },
+      {
+        "raw": "Cnut the Great",
+        "name": "Cnut",
+        "start": 1016,
+        "end": 1035,
+        "table": "curated"
+      },
+      {
+        "raw": "Magnus",
+        "name": "Magnus",
+        "start": 1035,
+        "end": 1047,
+        "table": "curated"
+      },
+      {
+        "raw": "Sweyn II",
+        "name": "Sweyn",
+        "start": 1047,
+        "end": 1076,
+        "table": "curated"
+      },
+      {
+        "raw": "Harald III",
+        "name": "Harald",
+        "start": 1076,
+        "end": 1080,
+        "table": "curated"
+      },
+      {
+        "raw": "Canute IV",
+        "name": "Canute",
+        "start": 1080,
+        "end": 1086,
+        "table": "curated"
+      },
+      {
+        "raw": "Olaf I",
+        "name": "Olaf",
+        "start": 1086,
+        "end": 1095,
+        "table": "curated"
+      },
+      {
+        "raw": "Eric I",
+        "name": "Eric",
+        "start": 1095,
+        "end": 1103,
+        "table": "curated"
+      },
+      {
+        "raw": "Neils",
+        "name": "Neils",
+        "start": 1104,
+        "end": 1134,
+        "table": "curated"
+      },
+      {
+        "raw": "Eric II",
+        "name": "Eric",
+        "start": 1134,
+        "end": 1137,
+        "table": "curated"
+      },
+      {
+        "raw": "Eric III",
+        "name": "Eric",
+        "start": 1137,
+        "end": 1146,
+        "table": "curated"
+      },
+      {
+        "raw": "Sweyn III",
+        "name": "Sweyn",
+        "start": 1146,
+        "end": 1157,
+        "table": "curated"
+      },
+      {
+        "raw": "Valdemar I",
+        "name": "Valdemar",
+        "start": 1154,
+        "end": 1182,
+        "table": "curated"
+      },
+      {
+        "raw": "Canute VI",
+        "name": "Canute",
+        "start": 1182,
+        "end": 1202,
+        "table": "curated"
+      },
+      {
+        "raw": "Valdemar II",
+        "name": "Valdemar",
+        "start": 1202,
+        "end": 1241,
+        "table": "curated"
+      },
+      {
+        "raw": "Eric IV",
+        "name": "Eric",
+        "start": 1232,
+        "end": 1250,
+        "table": "curated"
+      },
+      {
+        "raw": "Abel",
+        "name": "Abel",
+        "start": 1250,
+        "end": 1252,
+        "table": "curated"
+      },
+      {
+        "raw": "Christopher I",
+        "name": "Christopher",
+        "start": 1252,
+        "end": 1259,
+        "table": "curated"
+      },
+      {
+        "raw": "Eric V",
+        "name": "Eric",
+        "start": 1259,
+        "end": 1286,
+        "table": "curated"
+      },
+      {
+        "raw": "Eric VI",
+        "name": "Eric",
+        "start": 1286,
+        "end": 1319,
+        "table": "curated"
+      },
+      {
+        "raw": "Christopher II",
+        "name": "Christopher",
+        "start": 1320,
+        "end": 1326,
+        "table": "curated"
+      },
+      {
+        "raw": "Valdemar III",
+        "name": "Valdemar",
+        "start": 1326,
+        "end": 1330,
+        "table": "curated"
+      },
+      {
+        "raw": "Christopher II (2nd)",
+        "name": "Christopher",
+        "start": 1329,
+        "end": 1332,
+        "table": "curated"
+      },
+      {
+        "raw": "Valdemar IV",
+        "name": "Valdemar",
+        "start": 1340,
+        "end": 1375,
+        "table": "curated"
+      },
+      {
+        "raw": "Olaf II and IV",
+        "name": "Olaf",
+        "start": 1376,
+        "end": 1387,
+        "table": "curated"
+      },
+      {
+        "raw": "Margaret I",
+        "name": "Margaret",
+        "start": 1387,
+        "end": 1412,
+        "table": "curated"
+      },
+      {
+        "raw": "Eric VII",
+        "name": "Eric",
+        "start": 1396,
+        "end": 1439,
+        "table": "curated"
+      },
+      {
+        "raw": "Christopher III",
+        "name": "Christopher",
+        "start": 1440,
+        "end": 1448,
+        "table": "curated"
+      },
+      {
+        "raw": "Christian I",
+        "name": "Christian",
+        "start": 1448,
+        "end": 1481,
+        "table": "curated"
+      },
+      {
+        "raw": "John",
+        "name": "John",
+        "start": 1481,
+        "end": 1513,
+        "table": "curated"
+      },
+      {
+        "raw": "Christian II",
+        "name": "Christian",
+        "start": 1513,
+        "end": 1523,
+        "table": "curated"
+      },
+      {
+        "raw": "Frederick I",
+        "name": "Frederick",
+        "start": 1523,
+        "end": 1533,
+        "table": "curated"
+      },
+      {
+        "raw": "Christian III",
+        "name": "Christian",
+        "start": 1534,
+        "end": 1559,
+        "table": "curated"
+      },
+      {
+        "raw": "Frederick II",
+        "name": "Frederick",
+        "start": 1559,
+        "end": 1588,
+        "table": "curated"
+      },
+      {
+        "raw": "Christian IV",
+        "name": "Christian",
+        "start": 1588,
+        "end": 1648,
+        "table": "curated"
+      },
+      {
+        "raw": "Frederick III",
+        "name": "Frederick",
+        "start": 1648,
+        "end": 1670,
+        "table": "curated"
+      },
+      {
+        "raw": "Christian V",
+        "name": "Christian",
+        "start": 1670,
+        "end": 1699,
+        "table": "curated"
+      },
+      {
+        "raw": "Frederick IV",
+        "name": "Frederick",
+        "start": 1699,
+        "end": 1730,
+        "table": "curated"
+      },
+      {
+        "raw": "Christian VI",
+        "name": "Christian",
+        "start": 1730,
+        "end": 1746,
+        "table": "curated"
+      },
+      {
+        "raw": "Frederick V",
+        "name": "Frederick",
+        "start": 1746,
+        "end": 1766,
+        "table": "curated"
+      },
+      {
+        "raw": "Christian VII",
+        "name": "Christian",
+        "start": 1766,
+        "end": 1808,
+        "table": "curated"
+      },
+      {
+        "raw": "Frederick VI",
+        "name": "Frederick",
+        "start": 1808,
+        "end": 1839,
+        "table": "curated"
+      },
+      {
+        "raw": "Christian VIII",
+        "name": "Christian",
+        "start": 1839,
+        "end": 1848,
+        "table": "curated"
+      },
+      {
+        "raw": "Frederick VII",
+        "name": "Frederick",
+        "start": 1848,
+        "end": 1863,
+        "table": "curated"
+      },
+      {
+        "raw": "Christian IX",
+        "name": "Christian",
+        "start": 1863,
+        "end": 1906,
+        "table": "curated"
+      },
+      {
+        "raw": "Frederick VIII",
+        "name": "Frederick",
+        "start": 1906,
+        "end": 1912,
+        "table": "curated"
+      },
+      {
+        "raw": "Christian X",
+        "name": "Christian",
+        "start": 1912,
+        "end": 1947,
+        "table": "curated"
+      },
+      {
+        "raw": "Frederick IX",
+        "name": "Frederick",
+        "start": 1947,
+        "end": 1972,
+        "table": "curated"
+      },
+      {
+        "raw": "Margrethe II",
+        "name": "Margaret",
+        "start": 1972,
+        "end": 2024,
+        "table": "curated"
+      },
+      {
+        "raw": "Frederik X",
+        "name": "Frederick",
+        "start": 2024,
+        "end": null,
+        "table": "current-update"
+      }
+    ],
+    "Norway": [
+      {
+        "raw": "Harald I Halfdansson Harald Fairhair c. 872–932",
+        "name": "Harald",
+        "start": 872,
+        "end": 932,
+        "table": 1
+      },
+      {
+        "raw": "Eric I Haraldsson Eric Bloodaxe c. 932–934",
+        "name": "Eric",
+        "start": 932,
+        "end": 934,
+        "table": 1
+      },
+      {
+        "raw": "Haakon I Haraldsson Haakon the Good c. 934–960",
+        "name": "Haakon",
+        "start": 934,
+        "end": 960,
+        "table": 1
+      },
+      {
+        "raw": "Harald II Ericsson Harald Greycloak c. 961–970",
+        "name": "Harald",
+        "start": 961,
+        "end": 970,
+        "table": 1
+      },
+      {
+        "raw": "Harald Bluetooth 970 – c. 986 (de jure)",
+        "name": "Harald",
+        "start": 970,
+        "end": 986,
+        "table": 2
+      },
+      {
+        "raw": "Olaf I Tryggvason 995–1000",
+        "name": "Olaf",
+        "start": 995,
+        "end": 1000,
+        "table": 3
+      },
+      {
+        "raw": "Sweyn Forkbeard 1000–1013 (de jure)",
+        "name": "Sweyn",
+        "start": 1000,
+        "end": 1013,
+        "table": 4
+      },
+      {
+        "raw": "Olav II Haraldsson Saint Olav (Rex Perpetuus Norvegiae) 1015–1028",
+        "name": "Olaf",
+        "start": 1015,
+        "end": 1028,
+        "table": 5
+      },
+      {
+        "raw": "Cnut the Great 1028–1035 (de jure)",
+        "name": "Cnut",
+        "start": 1028,
+        "end": 1035,
+        "table": 6
+      },
+      {
+        "raw": "Sweyn Knutsson (with Ælfgifu) 1030–1035 (de facto)",
+        "name": "Sweyn",
+        "start": 1030,
+        "end": 1035,
+        "table": 6
+      },
+      {
+        "raw": "Magnus I Olavsson Magnus the Good 1035–1047",
+        "name": "Magnus",
+        "start": 1035,
+        "end": 1047,
+        "table": 7
+      },
+      {
+        "raw": "Harald III Sigurdsson Harald Hardrada 1046–1066",
+        "name": "Harald",
+        "start": 1046,
+        "end": 1066,
+        "table": 8
+      },
+      {
+        "raw": "Magnus II Haraldsson 1066–1069",
+        "name": "Magnus",
+        "start": 1066,
+        "end": 1069,
+        "table": 8
+      },
+      {
+        "raw": "Olav III Haraldsson Olaf Kyrre 1067–1093",
+        "name": "Olaf",
+        "start": 1067,
+        "end": 1093,
+        "table": 8
+      },
+      {
+        "raw": "Haakon (II) Magnusson Haakon Toresfostre 1093–1095",
+        "name": "Haakon",
+        "start": 1093,
+        "end": 1095,
+        "table": 8
+      },
+      {
+        "raw": "Magnus III Olavsson Magnus Barefoot 1093–1103",
+        "name": "Magnus",
+        "start": 1093,
+        "end": 1103,
+        "table": 8
+      },
+      {
+        "raw": "Olav (IV) Magnusson 1103–1115",
+        "name": "Olaf",
+        "start": 1103,
+        "end": 1115,
+        "table": 8
+      },
+      {
+        "raw": "Eystein I Magnusson 1103–1123",
+        "name": "Eystein",
+        "start": 1103,
+        "end": 1123,
+        "table": 8
+      },
+      {
+        "raw": "Sigurd I Magnusson Sigurd the Crusader 1103–1130",
+        "name": "Sigurd",
+        "start": 1103,
+        "end": 1130,
+        "table": 8
+      },
+      {
+        "raw": "Magnus IV Sigurdsson Magnus the Blind 1130–1135",
+        "name": "Magnus",
+        "start": 1130,
+        "end": 1135,
+        "table": 8
+      },
+      {
+        "raw": "Harald IV Magnusson Harald Gille 1130–1136",
+        "name": "Harald",
+        "start": 1130,
+        "end": 1136,
+        "table": 9
+      },
+      {
+        "raw": "Sigurd II Haraldsson Sigurd Munn 1136–1155",
+        "name": "Sigurd",
+        "start": 1136,
+        "end": 1155,
+        "table": 9
+      },
+      {
+        "raw": "Inge I Haraldsson Inge the Hunchback 1136–1161",
+        "name": "Inge",
+        "start": 1136,
+        "end": 1161,
+        "table": 9
+      },
+      {
+        "raw": "Eystein II Haraldsson 1142–1157",
+        "name": "Eystein",
+        "start": 1142,
+        "end": 1157,
+        "table": 9
+      },
+      {
+        "raw": "Magnus (V) Haraldsson 1142–1145",
+        "name": "Magnus",
+        "start": 1142,
+        "end": 1145,
+        "table": 9
+      },
+      {
+        "raw": "Haakon II Sigurdsson Haakon the Broadshouldered 1157–1162",
+        "name": "Haakon",
+        "start": 1157,
+        "end": 1162,
+        "table": 9
+      },
+      {
+        "raw": "Magnus V Erlingsson 1161–1184",
+        "name": "Magnus",
+        "start": 1161,
+        "end": 1184,
+        "table": 10
+      },
+      {
+        "raw": "Sverre Sigurdsson 1184–1202",
+        "name": "Sverre",
+        "start": 1184,
+        "end": 1202,
+        "table": 11
+      },
+      {
+        "raw": "Haakon III Sverresson 1202–1204",
+        "name": "Haakon",
+        "start": 1202,
+        "end": 1204,
+        "table": 11
+      },
+      {
+        "raw": "Guttorm Sigurdsson 1204",
+        "name": "Guttorm",
+        "start": 1204,
+        "end": 1204,
+        "table": 11
+      },
+      {
+        "raw": "Inge II Bårdsson 1204–1217",
+        "name": "Inge",
+        "start": 1204,
+        "end": 1217,
+        "table": 12
+      },
+      {
+        "raw": "Haakon IV Haakonsson Haakon the Old 1217–1263",
+        "name": "Haakon",
+        "start": 1217,
+        "end": 1263,
+        "table": 13
+      },
+      {
+        "raw": "Haakon (V) Haakonsson Haakon the Young 1240–1257",
+        "name": "Haakon",
+        "start": 1240,
+        "end": 1257,
+        "table": 13
+      },
+      {
+        "raw": "Magnus VI Haakonsson Magnus the Law-mender 1257–1280",
+        "name": "Magnus",
+        "start": 1257,
+        "end": 1280,
+        "table": 13
+      },
+      {
+        "raw": "Eric II Magnusson 1273–1299 Regent: Queen Mother Ingeborg (1280–1283)",
+        "name": "Eric",
+        "start": 1273,
+        "end": 1283,
+        "table": 13
+      },
+      {
+        "raw": "Haakon V Magnusson Haakon Magnusson the Elder 1299–1319",
+        "name": "Haakon",
+        "start": 1299,
+        "end": 1319,
+        "table": 13
+      },
+      {
+        "raw": "Magnus VII Eriksson August 1319 – August 1355 (abdicated, de facto) (circa 24 years, 14 days, de jure) Regents: Queen Mother Ingeborg (1319–1323) and Erling Vidkunsson (1323–1332)",
+        "name": "Magnus",
+        "start": 1319,
+        "end": 1332,
+        "table": 14
+      },
+      {
+        "raw": "Haakon VI Magnusson Haakon Magnusson the Younger 15 August 1343 – 11 September 1380 (37 years, 27 days)",
+        "name": "Haakon",
+        "start": 1343,
+        "end": 1380,
+        "table": 14
+      },
+      {
+        "raw": "Olav IV Haakonsson 11 September 1380 –23 August 1387 (6 years, 346 days)",
+        "name": "Olaf",
+        "start": 1380,
+        "end": 1387,
+        "table": 14
+      },
+      {
+        "raw": "Margaret the Semiramis of the North 2 February 1388 – 28 October 1412 (24 years, 269 days) with Eric III (1389–1412)",
+        "name": "Margaret",
+        "start": 1388,
+        "end": 1412,
+        "table": 15
+      },
+      {
+        "raw": "Eric III 8 September 1389 – 4 June 1442 (deposed) (52 years, 269 days) Regents: Philippa of England (1423-1425) and Sigurd Jonsson (1439–1442)",
+        "name": "Eric",
+        "start": 1389,
+        "end": 1442,
+        "table": 16
+      },
+      {
+        "raw": "Christopher 4 June 1442 – 5 January 1448 (5 years, 215 days)",
+        "name": "Christopher",
+        "start": 1442,
+        "end": 1448,
+        "table": 17
+      },
+      {
+        "raw": "Charles I 20 November 1449 – 13 May 1450 (abdicated/deposed) (174 days)",
+        "name": "Charles",
+        "start": 1449,
+        "end": 1450,
+        "table": 18
+      },
+      {
+        "raw": "Christian I 13 May 1450 – 21 May 1481 (31 years, 8 days)",
+        "name": "Christian",
+        "start": 1450,
+        "end": 1481,
+        "table": 19
+      },
+      {
+        "raw": "John 20 July 1483 – 20 February 1513 (29 years, 215 days)",
+        "name": "John",
+        "start": 1483,
+        "end": 1513,
+        "table": 19
+      },
+      {
+        "raw": "Christian II 22 July 1513 – 20 January 1523 (deposed) (9 years, 182 days)",
+        "name": "Christian",
+        "start": 1513,
+        "end": 1523,
+        "table": 19
+      },
+      {
+        "raw": "Frederick I 5 August 1524 – 10 April 1533 (8 years, 248 days)",
+        "name": "Frederick",
+        "start": 1524,
+        "end": 1533,
+        "table": 19
+      },
+      {
+        "raw": "Christian III 1 April 1537 – 1 January 1559 (21 years, 275 days)",
+        "name": "Christian",
+        "start": 1537,
+        "end": 1559,
+        "table": 19
+      },
+      {
+        "raw": "Frederick II 1 January 1559 – 4 April 1588 (29 years, 94 days)",
+        "name": "Frederick",
+        "start": 1559,
+        "end": 1588,
+        "table": 19
+      },
+      {
+        "raw": "Christian IV 4 April 1588 – 28 February 1648 (59 years, 330 days) Regency Council led by: Niels Kaas (1588–1594) and Jørgen Rosenkrantz (1594–1596)",
+        "name": "Christian",
+        "start": 1588,
+        "end": 1596,
+        "table": 19
+      },
+      {
+        "raw": "Frederick III 6 July 1648 – 9 February 1670 (21 years, 218 days)",
+        "name": "Frederick",
+        "start": 1648,
+        "end": 1670,
+        "table": 19
+      },
+      {
+        "raw": "Christian V 9 February 1670 – 25 August 1699 (29 years, 197 days)",
+        "name": "Christian",
+        "start": 1670,
+        "end": 1699,
+        "table": 19
+      },
+      {
+        "raw": "Frederick IV 25 August 1699 – 12 October 1730 (31 years, 48 days) Regent: Queen Consort Louise (1708–1709)",
+        "name": "Frederick",
+        "start": 1699,
+        "end": 1709,
+        "table": 19
+      },
+      {
+        "raw": "Christian VI 12 October 1730 – 6 August 1746 (15 years, 298 days)",
+        "name": "Christian",
+        "start": 1730,
+        "end": 1746,
+        "table": 19
+      },
+      {
+        "raw": "Frederick V 6 August 1746 – 14 January 1766 (19 years, 161 days)",
+        "name": "Frederick",
+        "start": 1746,
+        "end": 1766,
+        "table": 19
+      },
+      {
+        "raw": "Christian VII 14 January 1766 – 13 March 1808 (42 years, 59 days) Regents: Hereditary Prince Frederick (1772–1784) and Crown Prince Frederick (1784–1808)",
+        "name": "Christian",
+        "start": 1766,
+        "end": 1808,
+        "table": 19
+      },
+      {
+        "raw": "Frederick VI 13 March 1808 – 7 February 1814 (abdicated) (5 years, 331 days)",
+        "name": "Frederick",
+        "start": 1808,
+        "end": 1814,
+        "table": 19
+      },
+      {
+        "raw": "Christian Frederick 17 May 1814 – 10 October 1814 (abdicated) (146 days)",
+        "name": "Christian",
+        "start": 1814,
+        "end": 1814,
+        "table": 19
+      },
+      {
+        "raw": "Charles II 4 November 1814 – 5 February 1818 (3 years, 93 days) Regent: Crown Prince Charles John Bernadotte",
+        "name": "Charles",
+        "start": 1814,
+        "end": 1818,
+        "table": 20
+      },
+      {
+        "raw": "Charles III John 5 February 1818 – 8 March 1844 (26 years, 32 days)",
+        "name": "Charles",
+        "start": 1818,
+        "end": 1844,
+        "table": 21
+      },
+      {
+        "raw": "Oscar I 8 March 1844 – 8 July 1859 (15 years, 122 days) Regent: Crown Prince Charles (1857–1859)",
+        "name": "Oscar",
+        "start": 1844,
+        "end": 1859,
+        "table": 21
+      },
+      {
+        "raw": "Charles IV 8 July 1859 – 18 September 1872 (13 years, 102 days)",
+        "name": "Charles",
+        "start": 1859,
+        "end": 1872,
+        "table": 21
+      },
+      {
+        "raw": "Oscar II 18 September 1872 – 7 June (deposed) or 26 October 1905 (abdicated) (32 years, 262 days or 33 years, 38 days)",
+        "name": "Oscar",
+        "start": 1872,
+        "end": 1905,
+        "table": 21
+      },
+      {
+        "raw": "Dissolution of the Union (7 June 1905 – 26 October 1905) Interregnum (26 October 1905 – 18 November 1905) Christian Michelsen as Prime Minister",
+        "name": "Dissolution",
+        "start": 1905,
+        "end": 1905,
+        "table": 21
+      },
+      {
+        "raw": "Haakon VII 18 November 1905 – 21 September 1957 (51 years, 307 days) Regent: Crown Prince Olav (1955 – 1957)",
+        "name": "Haakon",
+        "start": 1905,
+        "end": 1957,
+        "table": 22
+      },
+      {
+        "raw": "Olav V 21 September 1957 – 17 January 1991 (33 years, 118 days) Regent: Crown Prince Harald (1958, 1990 – 1991)",
+        "name": "Olaf",
+        "start": 1957,
+        "end": 1991,
+        "table": 22
+      },
+      {
+        "raw": "Harald V 17 January 1991 – 28 August 2026 (35 years, 223 days) Regent: Crown Prince Haakon (2003 – 2004, 2005, 2020, 2024, 2026)",
+        "name": "Harald",
+        "start": 1991,
+        "end": 2026,
+        "table": 22
+      },
+      {
+        "raw": "Haakon VIII 28 August 2026 – present (60 days)",
+        "name": "Haakon",
+        "start": 2026,
+        "end": 2026,
+        "table": 22
+      }
+    ],
+    "Sweden": [
+      {
+        "raw": "Eric (VII) \"the Victorious\" Erik Segersäll",
+        "name": "Eric",
+        "start": 970,
+        "end": 995,
+        "table": 1
+      },
+      {
+        "raw": "Olof \"Skötkonung\"",
+        "name": "Olof",
+        "start": 995,
+        "end": 1022,
+        "table": 1
+      },
+      {
+        "raw": "Anund Jacob Anund Jakob",
+        "name": "Anund",
+        "start": 1022,
+        "end": 1050,
+        "table": 1
+      },
+      {
+        "raw": "Emund \"the Old\" Emund den gamle",
+        "name": "Emund",
+        "start": 1050,
+        "end": 1060,
+        "table": 1
+      },
+      {
+        "raw": "Stenkil Stenkil Ragnvaldsson",
+        "name": "Stenkil",
+        "start": 1060,
+        "end": 1066,
+        "table": 2
+      },
+      {
+        "raw": "Eric and Eric Erik och Erik (historicity disputed)",
+        "name": "Eric",
+        "start": 1066,
+        "end": 1066,
+        "table": 2
+      },
+      {
+        "raw": "Halsten Halsten Stenkilsson",
+        "name": "Halsten",
+        "start": 1066,
+        "end": 1068,
+        "table": 2
+      },
+      {
+        "raw": "Anund \"from Russia\" Anund Gårdske (historicity disputed)",
+        "name": "Anund",
+        "start": 1068,
+        "end": 1076,
+        "table": 2
+      },
+      {
+        "raw": "Håkan \"the Red\" Håkan Röde",
+        "name": "Håkan",
+        "start": 1070,
+        "end": 1070,
+        "table": 2
+      },
+      {
+        "raw": "Inge \"the Elder\" Inge den äldre",
+        "name": "Inge",
+        "start": 1078,
+        "end": 1112,
+        "table": 2
+      },
+      {
+        "raw": "Sweyn (\"Blot-Sweyn\") Blot-Sven (historicity disputed)",
+        "name": "Sweyn",
+        "start": 1081,
+        "end": 1083,
+        "table": 2
+      },
+      {
+        "raw": "Eric (VIII) \"Årsäll\" Erik Årsäll (historicity disputed)",
+        "name": "Eric",
+        "start": 1083,
+        "end": 1083,
+        "table": 2
+      },
+      {
+        "raw": "Philip Filip Halstensson",
+        "name": "Philip",
+        "start": 1100,
+        "end": 1118,
+        "table": 2
+      },
+      {
+        "raw": "Inge \"the Younger\" Inge (den yngre) Halstensson",
+        "name": "Inge",
+        "start": 1118,
+        "end": 1130,
+        "table": 2
+      },
+      {
+        "raw": "Ragnvald \"Knaphövde\"",
+        "name": "Ragnvald",
+        "start": 1120,
+        "end": 1130,
+        "table": 2
+      },
+      {
+        "raw": "Magnus I \"the Strong\" Magnus (den starke) Nilsson (status disputed)",
+        "name": "Magnus",
+        "start": 1125,
+        "end": 1134,
+        "table": 3
+      },
+      {
+        "raw": "Sverker I \"the Elder\" Sverker den äldre",
+        "name": "Sverker",
+        "start": 1130,
+        "end": 1156,
+        "table": 3
+      },
+      {
+        "raw": "Eric (IX) \"the Holy\" Erik (den helige) Jedvardsson",
+        "name": "Eric",
+        "start": 1157,
+        "end": 1160,
+        "table": 3
+      },
+      {
+        "raw": "Magnus II Magnus Henriksson",
+        "name": "Magnus",
+        "start": 1160,
+        "end": 1161,
+        "table": 3
+      },
+      {
+        "raw": "Charles (VII) Karl Sverkersson",
+        "name": "Charles",
+        "start": 1157,
+        "end": 1161,
+        "table": 3
+      },
+      {
+        "raw": "Canute I Knut Eriksson",
+        "name": "Canute",
+        "start": 1167,
+        "end": 1196,
+        "table": 3
+      },
+      {
+        "raw": "Kol (status disputed)",
+        "name": "Kol",
+        "start": 1170,
+        "end": 1170,
+        "table": 3
+      },
+      {
+        "raw": "Boleslaw Burislev (status disputed)",
+        "name": "Boleslaw",
+        "start": 1170,
+        "end": 1170,
+        "table": 3
+      },
+      {
+        "raw": "Sverker II \"the Younger\" Sverker (den yngre) Karlsson",
+        "name": "Sverker",
+        "start": 1196,
+        "end": 1208,
+        "table": 3
+      },
+      {
+        "raw": "Eric (X) \"the Survivor\" Erik Knutsson",
+        "name": "Eric",
+        "start": 1208,
+        "end": 1216,
+        "table": 3
+      },
+      {
+        "raw": "John I Johan Sverkersson",
+        "name": "John",
+        "start": 1216,
+        "end": 1222,
+        "table": 3
+      },
+      {
+        "raw": "Eric (XI) \"the Lisp and Lame\" Erik Eriksson",
+        "name": "Eric",
+        "start": 1222,
+        "end": 1229,
+        "table": 3
+      },
+      {
+        "raw": "Canute II \"the Tall\" Knut Holmgersson",
+        "name": "Canute",
+        "start": 1229,
+        "end": 1234,
+        "table": 3
+      },
+      {
+        "raw": "Eric (XI) \"the Lisp and Lame\" Erik Eriksson",
+        "name": "Eric",
+        "start": 1234,
+        "end": 1250,
+        "table": 3
+      },
+      {
+        "raw": "Valdemar Valdemar Birgersson",
+        "name": "Valdemar",
+        "start": 1250,
+        "end": 1275,
+        "table": 4
+      },
+      {
+        "raw": "Magnus III \"Barnlock\" Magnus (Ladulås) Birgersson",
+        "name": "Magnus",
+        "start": 1275,
+        "end": 1290,
+        "table": 4
+      },
+      {
+        "raw": "Birger Birger Magnusson",
+        "name": "Birger",
+        "start": 1290,
+        "end": 1318,
+        "table": 4
+      },
+      {
+        "raw": "Magnus IV Magnus Eriksson",
+        "name": "Magnus",
+        "start": 1319,
+        "end": 1364,
+        "table": 4
+      },
+      {
+        "raw": "Eric (XII) Erik Magnusson",
+        "name": "Eric",
+        "start": 1356,
+        "end": 1359,
+        "table": 4
+      },
+      {
+        "raw": "Håkan Håkan Magnusson",
+        "name": "Håkan",
+        "start": 1362,
+        "end": 1364,
+        "table": 4
+      },
+      {
+        "raw": "Albert of Mecklenburg Albrekt av Mecklenburg",
+        "name": "Albert",
+        "start": 1364,
+        "end": 1389,
+        "table": 5
+      },
+      {
+        "raw": "Margaret Margareta Valdemarsdotter",
+        "name": "Margaret",
+        "start": 1389,
+        "end": 1412,
+        "table": 6
+      },
+      {
+        "raw": "Eric (XIII) of Pomerania Erik av Pommern",
+        "name": "Eric",
+        "start": 1396,
+        "end": 1439,
+        "table": 6
+      },
+      {
+        "raw": "Christopher of Bavaria Kristofer av Bayern",
+        "name": "Christopher",
+        "start": 1441,
+        "end": 1448,
+        "table": 6
+      },
+      {
+        "raw": "Charles (VIII) Karl Knutsson Bonde",
+        "name": "Charles",
+        "start": 1448,
+        "end": 1457,
+        "table": 6
+      },
+      {
+        "raw": "Christian I Kristian I",
+        "name": "Christian",
+        "start": 1457,
+        "end": 1464,
+        "table": 6
+      },
+      {
+        "raw": "Charles (VIII) Karl Knutsson Bonde",
+        "name": "Charles",
+        "start": 1464,
+        "end": 1465,
+        "table": 6
+      },
+      {
+        "raw": "Charles (VIII) Karl Knutsson Bonde",
+        "name": "Charles",
+        "start": 1467,
+        "end": 1470,
+        "table": 6
+      },
+      {
+        "raw": "John II Johan II / Hans",
+        "name": "John",
+        "start": 1497,
+        "end": 1501,
+        "table": 6
+      },
+      {
+        "raw": "Christian II \"the Tyrant\" Kristian II",
+        "name": "Christian",
+        "start": 1520,
+        "end": 1521,
+        "table": 6
+      },
+      {
+        "raw": "Gustav I Gustav Vasa",
+        "name": "Gustav",
+        "start": 1523,
+        "end": 1560,
+        "table": 7
+      },
+      {
+        "raw": "Eric XIV Erik XIV",
+        "name": "Eric",
+        "start": 1560,
+        "end": 1569,
+        "table": 7
+      },
+      {
+        "raw": "John III Johan III",
+        "name": "John",
+        "start": 1569,
+        "end": 1592,
+        "table": 7
+      },
+      {
+        "raw": "Sigismund",
+        "name": "Sigismund",
+        "start": 1592,
+        "end": 1599,
+        "table": 7
+      },
+      {
+        "raw": "Charles IX Karl IX",
+        "name": "Charles",
+        "start": 1604,
+        "end": 1611,
+        "table": 7
+      },
+      {
+        "raw": "Gustav II Adolf (Gustavus Adolphus)",
+        "name": "Gustav",
+        "start": 1611,
+        "end": 1632,
+        "table": 7
+      },
+      {
+        "raw": "Christina Kristina",
+        "name": "Christina",
+        "start": 1632,
+        "end": 1654,
+        "table": 7
+      },
+      {
+        "raw": "Charles X Gustav Karl X Gustav",
+        "name": "Charles",
+        "start": 1654,
+        "end": 1660,
+        "table": 8
+      },
+      {
+        "raw": "Charles XI Karl XI",
+        "name": "Charles",
+        "start": 1660,
+        "end": 1697,
+        "table": 8
+      },
+      {
+        "raw": "Charles XII Karl XII",
+        "name": "Charles",
+        "start": 1697,
+        "end": 1718,
+        "table": 8
+      },
+      {
+        "raw": "Ulrika Eleonora",
+        "name": "Ulrika",
+        "start": 1719,
+        "end": 1720,
+        "table": 8
+      },
+      {
+        "raw": "Frederick I Fredrik I",
+        "name": "Frederick",
+        "start": 1720,
+        "end": 1751,
+        "table": 9
+      },
+      {
+        "raw": "Adolf Frederick Adolf Fredrik",
+        "name": "Adolf",
+        "start": 1751,
+        "end": 1771,
+        "table": 10
+      },
+      {
+        "raw": "Gustav III",
+        "name": "Gustav",
+        "start": 1771,
+        "end": 1792,
+        "table": 10
+      },
+      {
+        "raw": "Gustav IV Adolf",
+        "name": "Gustav",
+        "start": 1792,
+        "end": 1809,
+        "table": 10
+      },
+      {
+        "raw": "Charles XIII Karl XIII",
+        "name": "Charles",
+        "start": 1809,
+        "end": 1818,
+        "table": 10
+      },
+      {
+        "raw": "Charles XIV John Karl XIV Johan",
+        "name": "Charles",
+        "start": 1818,
+        "end": 1844,
+        "table": 11
+      },
+      {
+        "raw": "Oscar I",
+        "name": "Oscar",
+        "start": 1844,
+        "end": 1859,
+        "table": 11
+      },
+      {
+        "raw": "Charles XV Karl XV",
+        "name": "Charles",
+        "start": 1859,
+        "end": 1872,
+        "table": 11
+      },
+      {
+        "raw": "Oscar II",
+        "name": "Oscar",
+        "start": 1872,
+        "end": 1907,
+        "table": 11
+      },
+      {
+        "raw": "Gustaf V",
+        "name": "Gustav",
+        "start": 1907,
+        "end": 1950,
+        "table": 11
+      },
+      {
+        "raw": "Gustaf VI Adolf",
+        "name": "Gustav",
+        "start": 1950,
+        "end": 1973,
+        "table": 11
+      },
+      {
+        "raw": "Carl XVI Gustaf",
+        "name": "Charles",
+        "start": 1973,
+        "end": 1973,
+        "table": 11
+      }
+    ],
+    "Poland": [
+      {
+        "raw": "Duke Mieszko I Latin: Misico, dux Wandalorum c. 960 – 25 May 992 (31–32 years)",
+        "name": "Mieszko",
+        "start": 960,
+        "end": 992,
+        "table": 3
+      },
+      {
+        "raw": "King Bolesław I the Brave also Boleslaus I the Great Polish: Bolesław I Chrobry (Wielki) 992 – 1025 (as duke)18 April 1025 – 17 June 1025 (as king) (32–33 years)",
+        "name": "Bolesław",
+        "start": 992,
+        "end": 1025,
+        "table": 3
+      },
+      {
+        "raw": "King Mieszko II Lambert 25 December 1025 – 1031 (5–6 years)",
+        "name": "Mieszko",
+        "start": 1025,
+        "end": 1031,
+        "table": 3
+      },
+      {
+        "raw": "Duke Bezprym 1031 – 1032 (0–1 years)",
+        "name": "Bezprym",
+        "start": 1031,
+        "end": 1032,
+        "table": 3
+      },
+      {
+        "raw": "Duke Otto 1032 – 1033 (0–1 years)",
+        "name": "Otto",
+        "start": 1032,
+        "end": 1033,
+        "table": 3
+      },
+      {
+        "raw": "Duke Dytryk also Dietrich and Theoderick 1032 – 1033 (0–1 years)",
+        "name": "Dytryk",
+        "start": 1032,
+        "end": 1033,
+        "table": 3
+      },
+      {
+        "raw": "Duke Mieszko II Lambert 1032 – 1034 (1–2 years)",
+        "name": "Mieszko",
+        "start": 1032,
+        "end": 1034,
+        "table": 3
+      },
+      {
+        "raw": "King Bolesław the Forgotten Polish: Bolesław Zapomniany 1034 – 1038/1039 (4–5 years)",
+        "name": "Bolesław",
+        "start": 1034,
+        "end": 1039,
+        "table": 3
+      },
+      {
+        "raw": "Duke Casimir I the Restorer Polish: Kazimierz I Odnowiciel 1034/1040 – 1058 (17–18 years)",
+        "name": "Casimir",
+        "start": 1034,
+        "end": 1058,
+        "table": 3
+      },
+      {
+        "raw": "King Bolesław II the Generous Polish: Bolesław II Szczodry (Śmiały) 1058 – 1076 (as duke) 26 December 1076 – 1079 (as king) (20–21 years)",
+        "name": "Bolesław",
+        "start": 1058,
+        "end": 1079,
+        "table": 3
+      },
+      {
+        "raw": "Duke Władysław I Herman 1079 – 4 June 1102 (22–23 years)",
+        "name": "Władysław",
+        "start": 1079,
+        "end": 1102,
+        "table": 3
+      },
+      {
+        "raw": "Duke Zbigniew (duke of Poland) 1102 – 1107 (4–5 years)",
+        "name": "Zbigniew",
+        "start": 1102,
+        "end": 1107,
+        "table": 3
+      },
+      {
+        "raw": "Duke Bolesław III Wrymouth also Boleslaus III Polish: Bolesław III Wrymouth 1102 – 1138 (35–36 years)",
+        "name": "Bolesław",
+        "start": 1102,
+        "end": 1138,
+        "table": 3
+      },
+      {
+        "raw": "High Duke Władysław II the Exile Polish: Władysław II Wygnaniec 1138 – 1146 (7–8 years)",
+        "name": "Władysław",
+        "start": 1138,
+        "end": 1146,
+        "table": 4
+      },
+      {
+        "raw": "High Duke Bolesław IV the Curly Polish: Bolesław IV Kędzierzawy 1146 – 1173 (26–27 years)",
+        "name": "Bolesław",
+        "start": 1146,
+        "end": 1173,
+        "table": 4
+      },
+      {
+        "raw": "High Duke Mieszko III of Poland Polish: Mieszko III Stary 1173 – 1177 (3–4 years)",
+        "name": "Mieszko",
+        "start": 1173,
+        "end": 1177,
+        "table": 4
+      },
+      {
+        "raw": "High Duke Casimir II the Just Polish: Kazimierz II Sprawiedliwy 1177 – 1191 (13–14 years)",
+        "name": "Casimir",
+        "start": 1177,
+        "end": 1191,
+        "table": 4
+      },
+      {
+        "raw": "Mieszko III 1191 – 1191",
+        "name": "Mieszko",
+        "start": 1191,
+        "end": 1191,
+        "table": 4
+      },
+      {
+        "raw": "Casimir II the Just 1191 – 1194",
+        "name": "Casimir",
+        "start": 1191,
+        "end": 1194,
+        "table": 4
+      },
+      {
+        "raw": "High Duke Leszek I the White Polish: Leszek Biały 1194 – 1198 (3–4 years)",
+        "name": "Leszek",
+        "start": 1194,
+        "end": 1198,
+        "table": 4
+      },
+      {
+        "raw": "Mieszko III 1198 – 1199",
+        "name": "Mieszko",
+        "start": 1198,
+        "end": 1199,
+        "table": 4
+      },
+      {
+        "raw": "Leszek I the White 1199 – 1199",
+        "name": "Leszek",
+        "start": 1199,
+        "end": 1199,
+        "table": 4
+      },
+      {
+        "raw": "Mieszko III 1199 – 1202",
+        "name": "Mieszko",
+        "start": 1199,
+        "end": 1202,
+        "table": 4
+      },
+      {
+        "raw": "High Duke Władysław III Spindleshanks Polish: Władysław III Laskonogi 1202 – 1206 (3–4 years)",
+        "name": "Władysław",
+        "start": 1202,
+        "end": 1206,
+        "table": 4
+      },
+      {
+        "raw": "Leszek I the White 1206 – 1210",
+        "name": "Leszek",
+        "start": 1206,
+        "end": 1210,
+        "table": 4
+      },
+      {
+        "raw": "High Duke Mieszko IV Tanglefoot Polish: Mieszko IV Plątonogi 1210 – 1211 (0–1 years)",
+        "name": "Mieszko",
+        "start": 1210,
+        "end": 1211,
+        "table": 4
+      },
+      {
+        "raw": "Leszek I the White 1211 – 1227 (15–16 years)",
+        "name": "Leszek",
+        "start": 1211,
+        "end": 1227,
+        "table": 4
+      },
+      {
+        "raw": "Władysław III Spindleshanks 1228 – 1231",
+        "name": "Władysław",
+        "start": 1228,
+        "end": 1231,
+        "table": 4
+      },
+      {
+        "raw": "High Duke Henry the Bearded Polish: Henryk I Brodaty 1231 – 1238 (6–7 years)",
+        "name": "Henry",
+        "start": 1231,
+        "end": 1238,
+        "table": 4
+      },
+      {
+        "raw": "High Duke Henry II the Pious Polish: Henryk II Pobożny 1238 – 1241 (2–3 years)",
+        "name": "Henry",
+        "start": 1238,
+        "end": 1241,
+        "table": 4
+      },
+      {
+        "raw": "High Duke Bolesław II the Horned Polish: Bolesław II Rogatka 1241 – 1241",
+        "name": "Bolesław",
+        "start": 1241,
+        "end": 1241,
+        "table": 4
+      },
+      {
+        "raw": "High Duke Konrad I of Masovia 1241 – 1243 (1–2 years)",
+        "name": "Konrad",
+        "start": 1241,
+        "end": 1243,
+        "table": 4
+      },
+      {
+        "raw": "High Duke Bolesław V the Chaste Polish: Bolesław V Wstydliwy 1243 – 1279 (35–36 years)",
+        "name": "Bolesław",
+        "start": 1243,
+        "end": 1279,
+        "table": 4
+      },
+      {
+        "raw": "High Duke Leszek II the Black Polish: Leszek Czarny 1279 – 1288 (8–9 years)",
+        "name": "Leszek",
+        "start": 1279,
+        "end": 1288,
+        "table": 4
+      },
+      {
+        "raw": "High Duke Henry Probus English: Henry the Righteous Polish: Henryk IV Prawy 1288 – 1290 (8–9 years)",
+        "name": "Henry",
+        "start": 1288,
+        "end": 1290,
+        "table": 4
+      },
+      {
+        "raw": "King Przemysł II English: Premislaus II 1290 – 1291 (as High Duke)1295 – 1296 (as King) (1 year)",
+        "name": "Przemysł",
+        "start": 1290,
+        "end": 1296,
+        "table": 5
+      },
+      {
+        "raw": "King Wenceslaus II of Bohemia Polish: Wacław II Czeski 1291 – 1300 (as High Duke)1300 – 1305 (as King) (4–5 years)",
+        "name": "Wenceslaus",
+        "start": 1291,
+        "end": 1305,
+        "table": 6
+      },
+      {
+        "raw": "King Władysław I the Elbow-high Polish: Władysław I Łokietek 1306 – 1320 (as High Duke)20 January 1320 – 2 March 1333 (as King) (26 years, 183 days)",
+        "name": "Władysław",
+        "start": 1306,
+        "end": 1333,
+        "table": 7
+      },
+      {
+        "raw": "King Casimir III the Great Polish: Kazimierz III Wielki 25 April 1333 – 5 November 1370 (37 years, 195 days)",
+        "name": "Casimir",
+        "start": 1333,
+        "end": 1370,
+        "table": 7
+      },
+      {
+        "raw": "King Louis I of Hungary Polish: Ludwik Węgierski 17 November 1370 – 10 September 1382 (11 years, 298 days)",
+        "name": "Louis",
+        "start": 1370,
+        "end": 1382,
+        "table": 8
+      },
+      {
+        "raw": "Queen Jadwiga of Poland Polish: Jadwiga 16 October 1384 – 17 July 1399 (14 years, 275 days)",
+        "name": "Jadwiga",
+        "start": 1384,
+        "end": 1399,
+        "table": 8
+      },
+      {
+        "raw": "King Władysław II Jagiełło Lithuanian: Jogaila 2 February 1386 – 1 June 1434 (48 years, 120 days)",
+        "name": "Władysław",
+        "start": 1386,
+        "end": 1434,
+        "table": 9
+      },
+      {
+        "raw": "King Władysław III of Poland English: Ladislaus III of Varna Polish: Władysław III Warneńczyk 25 July 1434 – 10 November 1444 (10 years, 109 days)",
+        "name": "Władysław",
+        "start": 1434,
+        "end": 1444,
+        "table": 9
+      },
+      {
+        "raw": "King Casimir IV Jagiellon Polish: Kazimierz IV Jagiellończyk 25 June 1447 – 7 June 1492 (44 years, 349 days)",
+        "name": "Casimir",
+        "start": 1447,
+        "end": 1492,
+        "table": 9
+      },
+      {
+        "raw": "King John I Albert Polish: Jan I Olbracht 27 August 1492 – 17 June 1501 (8 years, 295 days)",
+        "name": "John",
+        "start": 1492,
+        "end": 1501,
+        "table": 9
+      },
+      {
+        "raw": "King Alexander Jagiellon Polish: Aleksander Jagiellończyk 3 October 1501 – 19 August 1506 (4 years, 321 days)",
+        "name": "Alexander",
+        "start": 1501,
+        "end": 1506,
+        "table": 9
+      },
+      {
+        "raw": "King Sigismund I the Old Polish: Zygmunt I Stary 8 December 1506 – 1 April 1548 (41 years, 116 days)",
+        "name": "Sigismund",
+        "start": 1506,
+        "end": 1548,
+        "table": 9
+      },
+      {
+        "raw": "King Sigismund II Augustus Polish: Zygmunt II August 18 December 1529 – 7 July 1572 (42 years, 203 days)",
+        "name": "Sigismund",
+        "start": 1529,
+        "end": 1572,
+        "table": 9
+      },
+      {
+        "raw": "King Henry III of France Polish: Henryk Walezy 16 May 1573 – 12 May 1575 (1 year, 362 days)",
+        "name": "Henry",
+        "start": 1573,
+        "end": 1575,
+        "table": 10
+      },
+      {
+        "raw": "Queen Anna Jagiellon Polish: Anna Jagiellonka 15 December 1575 – 19 August 1587 (de facto) (11 years, 248 days) – 9 September 1596 (de jure) (20 years, 270 days)",
+        "name": "Anna",
+        "start": 1575,
+        "end": 1596,
+        "table": 10
+      },
+      {
+        "raw": "King Stephen Báthory Polish: Stefan Batory 1 May 1576 – 12 December 1586 (10 years, 226 days)",
+        "name": "Stephen",
+        "start": 1576,
+        "end": 1586,
+        "table": 10
+      },
+      {
+        "raw": "King Sigismund III Vasa Polish: Zygmunt III Waza 19 August 1587 – 30 April 1632 (44 years, 256 days)",
+        "name": "Sigismund",
+        "start": 1587,
+        "end": 1632,
+        "table": 10
+      },
+      {
+        "raw": "King Władysław IV Vasa also Ladislaus IV Polish: Władysław IV Waza 8 November 1632 – 20 May 1648 (15 years, 195 days)",
+        "name": "Władysław",
+        "start": 1632,
+        "end": 1648,
+        "table": 10
+      },
+      {
+        "raw": "King John II Casimir Polish: Jan II Kazimierz 20 November 1648 – 16 September 1668 (19 years, 302 days)",
+        "name": "John",
+        "start": 1648,
+        "end": 1668,
+        "table": 10
+      },
+      {
+        "raw": "King Michał Korybut Wiśniowiecki Polish: Michał Korybut Wiśniowiecki 19 June 1669 – 10 November 1673 (4 years, 145 days)",
+        "name": "Michał",
+        "start": 1669,
+        "end": 1673,
+        "table": 10
+      },
+      {
+        "raw": "King John III Sobieski Polish: Jan III Sobieski 19 May 1674 – 17 June 1696 (22 years, 30 days)",
+        "name": "John",
+        "start": 1674,
+        "end": 1696,
+        "table": 10
+      },
+      {
+        "raw": "King Augustus II the Strong Polish: August II Mocny 15 September 1697 – 1706 (1st reign, 9 years)",
+        "name": "Augustus",
+        "start": 1697,
+        "end": 1706,
+        "table": 10
+      },
+      {
+        "raw": "King Stanisław Leszczyński Polish: Stanisław I Leszczyński 12 July 1704 – 8 July 1709 (1st reign, 4 years, 362 days)",
+        "name": "Stanisław",
+        "start": 1704,
+        "end": 1709,
+        "table": 10
+      },
+      {
+        "raw": "King Augustus II the Strong Polish: August II Mocny 8 July 1709 – 1 February 1733 (2nd reign, 23 years, 209 days)",
+        "name": "Augustus",
+        "start": 1709,
+        "end": 1733,
+        "table": 10
+      },
+      {
+        "raw": "King Stanisław Leszczyński Polish: Stanisław I Leszczyński 12 September 1733 – 26 January 1736 (2nd reign, 2 years, 137 days)",
+        "name": "Stanisław",
+        "start": 1733,
+        "end": 1736,
+        "table": 10
+      },
+      {
+        "raw": "King Augustus III of Poland Polish: August III Sas 5 October 1733 – 5 October 1763 (30 years)",
+        "name": "Augustus",
+        "start": 1733,
+        "end": 1763,
+        "table": 10
+      },
+      {
+        "raw": "King Stanisław August Poniatowski Polish: Stanisław II August 7 September 1764 – 25 November 1795 (31 years, 80 days)",
+        "name": "Stanisław",
+        "start": 1764,
+        "end": 1795,
+        "table": 10
+      }
+    ],
+    "Hungary": [
+      {
+        "raw": "Stephen I Saint Stephen Hungarian: I. István 1st king of Hungary25 December 1000 ┃ 15 August 1038 (37 years, 234 days) 25 December 1000 Esztergom or Székesfehérvár",
+        "name": "Stephen",
+        "start": 1000,
+        "end": 1000,
+        "table": 2
+      },
+      {
+        "raw": "Peter Peter Orseolo or Peter the Venetian Hungarian: Péter 2nd king of HungaryFirst reign 15 August 1038 ┃ September 1041 (3 years, 1 months) 1038 Székesfehérvár",
+        "name": "Peter",
+        "start": 1038,
+        "end": 1038,
+        "table": 2
+      },
+      {
+        "raw": "Samuel Samuel Aba Hungarian: Sámuel 3rd king of HungarySeptember 1041 ┃ 5 July 1044 Battle of Ménfő (2 years, 10 months) 22 April 1044 Csanád or Székesfehérvár",
+        "name": "Samuel",
+        "start": 1041,
+        "end": 1044,
+        "table": 2
+      },
+      {
+        "raw": "Peter Peter Orseolo or Peter the Venetian Hungarian: Péter 2nd king of HungarySecond reign 5 July 1044 ┃ 30 August 1046 (2 years, 57 days)",
+        "name": "Peter",
+        "start": 1044,
+        "end": 1046,
+        "table": 2
+      },
+      {
+        "raw": "Andrew I Endre or Andrew the White or the Catholic Hungarian: I. András 4th king of HungarySeptember 1046 ┃ December 1060 (14 years, 3 months) September 1046 Székesfehérvár",
+        "name": "Andrew",
+        "start": 1046,
+        "end": 1046,
+        "table": 2
+      },
+      {
+        "raw": "Béla I Béla the Champion Hungarian: I. Béla 5th king of Hungary6 December 1060 ┃ 11 September 1063 (2 years, 280 days) 6 December 1060 Székesfehérvár",
+        "name": "Béla",
+        "start": 1060,
+        "end": 1060,
+        "table": 2
+      },
+      {
+        "raw": "Géza I Magnus Hungarian: I. Géza 7th king of Hungary14 March 1074 ┃ 25 April 1077 (3 years, 43 days) 1075 Székesfehérvár",
+        "name": "Géza",
+        "start": 1074,
+        "end": 1075,
+        "table": 2
+      },
+      {
+        "raw": "Ladislaus I Saint Ladislaus Hungarian: I. László 8th king of Hungary25 April 1077 ┃ 29 July 1095 (18 years, 96 days) 1081 Székesfehérvár",
+        "name": "Ladislaus",
+        "start": 1077,
+        "end": 1081,
+        "table": 2
+      },
+      {
+        "raw": "Coloman Coloman the Learned or the Bookish Hungarian: Kálmán 9th king of Hungary29 July 1095 ┃ 3 February 1116 (20 years, 190 days) 1095 Székesfehérvár",
+        "name": "Coloman",
+        "start": 1095,
+        "end": 1095,
+        "table": 2
+      },
+      {
+        "raw": "Béla II Béla the Blind Hungarian: II. Béla 11th king of Hungary1 March 1131 ┃ 13 February 1141 (9 years, 350 days) 28 April 1131 Székesfehérvár",
+        "name": "Béla",
+        "start": 1131,
+        "end": 1131,
+        "table": 2
+      },
+      {
+        "raw": "Géza II Hungarian: II. Géza 12th king of Hungary13 February 1141 ┃ 31 May 1162 (21 years, 108 days) 16 February 1141 Székesfehérvár",
+        "name": "Géza",
+        "start": 1141,
+        "end": 1141,
+        "table": 2
+      },
+      {
+        "raw": "Stephen III Hungarian: III. István 13th king of Hungary31 May 1162 ┃ 4 March 1172 (9 years, 279 days) June 1162 Székesfehérvár",
+        "name": "Stephen",
+        "start": 1162,
+        "end": 1162,
+        "table": 2
+      },
+      {
+        "raw": "Béla III Béla the Great Hungarian: III. Béla 16th king of Hungary4 March 1172 ┃ 23 April 1196 (24 years, 51 days) 13 January 1173 Székesfehérvár",
+        "name": "Béla",
+        "start": 1172,
+        "end": 1173,
+        "table": 2
+      },
+      {
+        "raw": "Ladislaus III Hungarian: III. László 18th king of Hungary30 November 1204 ┃ 7 May 1205 (159 days) 26 August 1204 Székesfehérvár",
+        "name": "Ladislaus",
+        "start": 1204,
+        "end": 1204,
+        "table": 2
+      },
+      {
+        "raw": "Andrew II Andrew the Jerosolimitan Hungarian: II. András 19th king of Hungary7 May 1205 ┃ 21 September 1235 (30 years, 138 days) 29 May 1205 Székesfehérvár",
+        "name": "Andrew",
+        "start": 1205,
+        "end": 1205,
+        "table": 2
+      },
+      {
+        "raw": "Ladislaus IV Ladislaus the Cuman Hungarian: IV. László 22nd king of Hungary6 August 1272 ┃ 10 July 1290 (17 years, 339 days) Before 3 September 1272 Székesfehérvár",
+        "name": "Ladislaus",
+        "start": 1272,
+        "end": 1272,
+        "table": 2
+      },
+      {
+        "raw": "Andrew III Andrew the Venetian Hungarian: III. András 23rd king of Hungary10 July 1290 ┃ 14 January 1301 (10 years, 189 days) 23 July 1290 Székesfehérvár",
+        "name": "Andrew",
+        "start": 1290,
+        "end": 1290,
+        "table": 2
+      },
+      {
+        "raw": "Wenceslaus Ladislaus or Wenceslaus the Czech Hungarian: Vencel 24th king of Hungary27 August 1301 ┃ 9 October 1305 (4 years, 44 days) 27 August 1301 Székesfehérvár",
+        "name": "Wenceslaus",
+        "start": 1301,
+        "end": 1301,
+        "table": 3
+      },
+      {
+        "raw": "Otto Otto the Bavarian Hungarian: Ottó 25th king of Hungary9 October 1305 ┃ 1307 (2 years) 5 December 1305 Székesfehérvár",
+        "name": "Otto",
+        "start": 1305,
+        "end": 1305,
+        "table": 4
+      },
+      {
+        "raw": "Charles I Charles Robert Hungarian: I. Károly 26th king of Hungary17 November 1308 ┃ 16 July 1342 (33 years, 242 days) 1st coronation Spring 1301 Esztergom 2nd coronation 15 June 1309 Buda 3rd coronation 27 August 1310 Székesfehérvár",
+        "name": "Charles",
+        "start": 1308,
+        "end": 1310,
+        "table": 5
+      },
+      {
+        "raw": "Louis I Louis the Great Hungarian: I. Lajos 27th king of Hungary16 July 1342 ┃ 10 September 1382 (40 years, 57 days) 21 July 1342 Székesfehérvár",
+        "name": "Louis",
+        "start": 1342,
+        "end": 1342,
+        "table": 5
+      },
+      {
+        "raw": "Mary Hungarian: Mária 28th \"king\" of HungaryFirst reign 10 September 1382 ┃ December 1385 (3 years, 3 months) 17 September 1382 Székesfehérvár",
+        "name": "Mary",
+        "start": 1382,
+        "end": 1382,
+        "table": 5
+      },
+      {
+        "raw": "Charles II Charles the Small Hungarian: II. Károly 29th king of Hungary31 December 1385 ┃ 24 February 1386 (56 days) 31 December 1385 Székesfehérvár",
+        "name": "Charles",
+        "start": 1385,
+        "end": 1385,
+        "table": 5
+      },
+      {
+        "raw": "Mary Hungarian: Mária 28th \"king\" of HungarySecond reign Reign with Sigismund (1387–1395) 24 February 1386 ┃ 17 May 1395 (9 years, 83 days)",
+        "name": "Mary",
+        "start": 1387,
+        "end": 1395,
+        "table": 5
+      },
+      {
+        "raw": "Sigismund Sigismund of Luxembourg Hungarian: Zsigmond 30th king of HungaryReign with Mary (1387–1395) 31 March 1387 ┃ 9 December 1437 (50 years, 254 days) 31 March 1387 Székesfehérvár",
+        "name": "Sigismund",
+        "start": 1387,
+        "end": 1387,
+        "table": 6
+      },
+      {
+        "raw": "Albert Albert the Habsburg Hungarian: Albert 31st king of Hungary18 December 1437 ┃ 27 October 1439 (1 year, 314 days) 1 January 1438 Székesfehérvár",
+        "name": "Albert",
+        "start": 1437,
+        "end": 1438,
+        "table": 7
+      },
+      {
+        "raw": "Ladislaus V Ladislaus the Posthumous Hungarian: V. László 32nd king of Hungary15 May 1440 ┃ 23 November 1457 (17 year, 193 days) 15 May 1440 Székesfehérvár",
+        "name": "Ladislaus",
+        "start": 1440,
+        "end": 1440,
+        "table": 7
+      },
+      {
+        "raw": "Vladislaus I Vladislaus the Polish Hungarian: I. Ulászló 33rd king of Hungary17 July 1440 ┃ 10 November 1444 (4 years, 117 days) (Not with the Holy Crown of Hungary) 17 July 1440 Székesfehérvár",
+        "name": "Vladislaus",
+        "start": 1440,
+        "end": 1440,
+        "table": 8
+      },
+      {
+        "raw": "Matthias I Matthias the Just Hungarian: Mátyás 34th king of Hungary24 January 1458 ┃ 6 April 1490 (32 years, 73 days) 29 March 1464 Székesfehérvár",
+        "name": "Matthias",
+        "start": 1458,
+        "end": 1464,
+        "table": 9
+      },
+      {
+        "raw": "Vladislaus II Vladislaus Dobzse Hungarian: II. Ulászló 35th king of Hungary15 July 1490 ┃ 13 March 1516 (25 years, 243 days) 18 September 1490 Székesfehérvár",
+        "name": "Vladislaus",
+        "start": 1490,
+        "end": 1490,
+        "table": 10
+      },
+      {
+        "raw": "Louis II Hungarian: II. Lajos 36th king of Hungary13 March 1516 ┃ 29 August 1526 (10 year, 170 days) 4 June 1508 Székesfehérvár",
+        "name": "Louis",
+        "start": 1516,
+        "end": 1508,
+        "table": 10
+      },
+      {
+        "raw": "John I John Zápolya Hungarian: I. János 37th king of Hungary11 November 1526 ┃ 22 July 1540 (13 years, 255 days) 11 November 1526 Székesfehérvár",
+        "name": "John",
+        "start": 1526,
+        "end": 1526,
+        "table": 11
+      },
+      {
+        "raw": "Ferdinand I 38th king of Hungary17 December 1526 ┃ 25 July 1564 (37 years, 220 days) 3 November 1527 Székesfehérvár",
+        "name": "Ferdinand",
+        "start": 1526,
+        "end": 1527,
+        "table": 12
+      },
+      {
+        "raw": "John II John Sigismund Hungarian: II. János 39th king of HungaryFirst reign 13 September 1540 ┃ 19 July 1551 (10 years, 310 days)Second reign 25 November 1556 ┃ 16 August 1570 (13 years, 264 days)Never crowned",
+        "name": "John",
+        "start": 1540,
+        "end": 1570,
+        "table": 13
+      },
+      {
+        "raw": "Maximilian 40th king of Hungary26 July 1564 ┃ 12 October 1576 (12 years, 78 days) 8 September 1563 Pozsony",
+        "name": "Maximilian",
+        "start": 1564,
+        "end": 1563,
+        "table": 14
+      },
+      {
+        "raw": "Rudolph 41st king of Hungary12 October 1576 ┃ 26 June 1608 (31 years, 257 days) 25 September 1572 Pozsony",
+        "name": "Rudolph",
+        "start": 1576,
+        "end": 1572,
+        "table": 14
+      },
+      {
+        "raw": "Matthias II 42nd king of Hungary26 June 1608 ┃ 20 March 1619 (10 years, 267 days) 19 November 1608 Pozsony",
+        "name": "Matthias",
+        "start": 1608,
+        "end": 1608,
+        "table": 14
+      },
+      {
+        "raw": "Ferdinand II 43rd king of Hungary20 March 1619 ┃ 15 February 1637 (17 years, 331 days) 1 July 1618 Pozsony",
+        "name": "Ferdinand",
+        "start": 1619,
+        "end": 1618,
+        "table": 14
+      },
+      {
+        "raw": "Ferdinand III 44th king of Hungary15 February 1637 ┃ 2 April 1657 (20 years, 47 days) 8 December 1625 Sopron",
+        "name": "Ferdinand",
+        "start": 1637,
+        "end": 1625,
+        "table": 16
+      },
+      {
+        "raw": "Leopold I 46th king of Hungary2 April 1657 ┃ 5 May 1705 (48 years, 33 days) 27 June 1655 Pozsony",
+        "name": "Leopold",
+        "start": 1657,
+        "end": 1655,
+        "table": 16
+      },
+      {
+        "raw": "Joseph I 47th king of Hungary5 May 1705 ┃ 17 April 1711 (5 years, 347 days) 9 December 1687 Pozsony",
+        "name": "Joseph",
+        "start": 1705,
+        "end": 1687,
+        "table": 16
+      },
+      {
+        "raw": "Charles III 48th king of Hungary17 April 1711 ┃ 20 October 1740 (29 years, 186 days) 22 May 1712 Pozsony",
+        "name": "Charles",
+        "start": 1711,
+        "end": 1712,
+        "table": 16
+      },
+      {
+        "raw": "Maria Theresa 49th \"king\" of Hungary20 October 1740 ┃ 29 November 1780 (40 years, 40 days) 25 June 1741 Pozsony",
+        "name": "Maria",
+        "start": 1740,
+        "end": 1741,
+        "table": 16
+      },
+      {
+        "raw": "Joseph II The Hat King 50th king of Hungary29 November 1780 ┃ 20 February 1790 (9 years, 283 days)Never crowned",
+        "name": "Joseph",
+        "start": 1780,
+        "end": 1790,
+        "table": 17
+      },
+      {
+        "raw": "Leopold II 51st king of Hungary20 February 1790 ┃ 1 March 1792 (2 years, 10 days) 15 November 1790 Pozsony",
+        "name": "Leopold",
+        "start": 1790,
+        "end": 1790,
+        "table": 17
+      },
+      {
+        "raw": "Francis I 52nd king of Hungary1 March 1792 ┃ 2 March 1835 (43 years, 1 days) 6 June 1792 Buda",
+        "name": "Francis",
+        "start": 1792,
+        "end": 1792,
+        "table": 17
+      },
+      {
+        "raw": "Ferdinand V The Benign 53rd king of Hungary2 March 1835 ┃ 2 December 1848 (13 years, 275 days) 28 September 1830 Pozsony",
+        "name": "Ferdinand",
+        "start": 1835,
+        "end": 1830,
+        "table": 17
+      },
+      {
+        "raw": "Franz Joseph I 54th king of Hungary2 December 1848 ┃ 21 November 1916 (67 years, 354 days) 8 June 1867 Buda",
+        "name": "Franz",
+        "start": 1848,
+        "end": 1867,
+        "table": 17
+      },
+      {
+        "raw": "Charles IV Blessed Charles 55th king of Hungary21 November 1916 ┃ 16 November 1918 (1 year, 360 days) 30 December 1916 Budapest",
+        "name": "Charles",
+        "start": 1916,
+        "end": 1916,
+        "table": 17
+      }
+    ],
+    "Scotland": [
+      {
+        "raw": "Malcolm III",
+        "name": "Malcolm",
+        "start": 1058,
+        "end": 1093,
+        "table": "curated"
+      },
+      {
+        "raw": "Donald Bane",
+        "name": "Donald",
+        "start": 1093,
+        "end": 1094,
+        "table": "curated"
+      },
+      {
+        "raw": "Duncan II",
+        "name": "Duncan",
+        "start": 1094,
+        "end": 1094,
+        "table": "curated"
+      },
+      {
+        "raw": "Donald Bane ",
+        "name": "Donald",
+        "start": 1094,
+        "end": 1097,
+        "table": "curated"
+      },
+      {
+        "raw": "Edgar",
+        "name": "Edgar",
+        "start": 1097,
+        "end": 1107,
+        "table": "curated"
+      },
+      {
+        "raw": "Alexander I",
+        "name": "Alexander",
+        "start": 1107,
+        "end": 1124,
+        "table": "curated"
+      },
+      {
+        "raw": "David I",
+        "name": "David",
+        "start": 1124,
+        "end": 1153,
+        "table": "curated"
+      },
+      {
+        "raw": "Malcolm IV",
+        "name": "Malcolm",
+        "start": 1153,
+        "end": 1165,
+        "table": "curated"
+      },
+      {
+        "raw": "William I",
+        "name": "William",
+        "start": 1165,
+        "end": 1214,
+        "table": "curated"
+      },
+      {
+        "raw": "Alexander II",
+        "name": "Alexander",
+        "start": 1214,
+        "end": 1249,
+        "table": "curated"
+      },
+      {
+        "raw": "Alexander III",
+        "name": "Alexander",
+        "start": 1249,
+        "end": 1286,
+        "table": "curated"
+      },
+      {
+        "raw": "Margaret",
+        "name": "Margaret",
+        "start": 1286,
+        "end": 1290,
+        "table": "curated"
+      },
+      {
+        "raw": "John",
+        "name": "John",
+        "start": 1292,
+        "end": 1296,
+        "table": "curated"
+      },
+      {
+        "raw": "Robert I",
+        "name": "Robert",
+        "start": 1306,
+        "end": 1329,
+        "table": "curated"
+      },
+      {
+        "raw": "David II",
+        "name": "David",
+        "start": 1329,
+        "end": 1371,
+        "table": "curated"
+      },
+      {
+        "raw": "Robert II",
+        "name": "Robert",
+        "start": 1371,
+        "end": 1390,
+        "table": "curated"
+      },
+      {
+        "raw": "Robert III",
+        "name": "Robert",
+        "start": 1390,
+        "end": 1406,
+        "table": "curated"
+      },
+      {
+        "raw": "James I",
+        "name": "James",
+        "start": 1406,
+        "end": 1437,
+        "table": "curated"
+      },
+      {
+        "raw": "James II",
+        "name": "James",
+        "start": 1437,
+        "end": 1460,
+        "table": "curated"
+      },
+      {
+        "raw": "James III",
+        "name": "James",
+        "start": 1460,
+        "end": 1488,
+        "table": "curated"
+      },
+      {
+        "raw": "James IV",
+        "name": "James",
+        "start": 1488,
+        "end": 1513,
+        "table": "curated"
+      },
+      {
+        "raw": "James V",
+        "name": "James",
+        "start": 1513,
+        "end": 1542,
+        "table": "curated"
+      },
+      {
+        "raw": "Mary, Queen of Scots",
+        "name": "Mary",
+        "start": 1542,
+        "end": 1567,
+        "table": "curated"
+      },
+      {
+        "raw": "James VI",
+        "name": "James",
+        "start": 1567,
+        "end": 1603,
+        "table": "curated"
+      }
+    ],
+    "Russia": [
+      {
+        "raw": "Vladimir the Great",
+        "name": "Vladimir",
+        "start": 980,
+        "end": 1015,
+        "table": "curated"
+      },
+      {
+        "raw": "Sviatopolk I",
+        "name": "Sviatopolk",
+        "start": 1015,
+        "end": 1019,
+        "table": "curated"
+      },
+      {
+        "raw": "Yaroslav the Wise",
+        "name": "Yaroslav",
+        "start": 1019,
+        "end": 1054,
+        "table": "curated"
+      },
+      {
+        "raw": "Iziaslav I",
+        "name": "Iziaslav",
+        "start": 1054,
+        "end": 1073,
+        "table": "curated"
+      },
+      {
+        "raw": "Sviatoslav II",
+        "name": "Sviatoslav",
+        "start": 1073,
+        "end": 1077,
+        "table": "curated"
+      },
+      {
+        "raw": "Vsevolod I",
+        "name": "Vsevolod",
+        "start": 1078,
+        "end": 1093,
+        "table": "curated"
+      },
+      {
+        "raw": "Sviatopolk II",
+        "name": "Sviatopolk",
+        "start": 1093,
+        "end": 1113,
+        "table": "curated"
+      },
+      {
+        "raw": "Vladimir II",
+        "name": "Vladimir",
+        "start": 1112,
+        "end": 1125,
+        "table": "curated"
+      },
+      {
+        "raw": "Mstislav I",
+        "name": "Mstislav",
+        "start": 1125,
+        "end": 1132,
+        "table": "curated"
+      },
+      {
+        "raw": "Ivan IV",
+        "name": "Ivan",
+        "start": 1547,
+        "end": 1584,
+        "table": "curated"
+      },
+      {
+        "raw": "Feodor I",
+        "name": "Feodor",
+        "start": 1584,
+        "end": 1598,
+        "table": "curated"
+      },
+      {
+        "raw": "Boris Godunov",
+        "name": "Boris",
+        "start": 1598,
+        "end": 1605,
+        "table": "curated"
+      },
+      {
+        "raw": "Feodor II",
+        "name": "Feodor",
+        "start": 1605,
+        "end": 1605,
+        "table": "curated"
+      },
+      {
+        "raw": "False Dmitry",
+        "name": "Dmitry",
+        "start": 1605,
+        "end": 1606,
+        "table": "curated"
+      },
+      {
+        "raw": "Vasili IV",
+        "name": "Vasili",
+        "start": 1606,
+        "end": 1610,
+        "table": "curated"
+      },
+      {
+        "raw": "Michael I",
+        "name": "Michael",
+        "start": 1613,
+        "end": 1645,
+        "table": "curated"
+      },
+      {
+        "raw": "Alexis I",
+        "name": "Alexis",
+        "start": 1645,
+        "end": 1676,
+        "table": "curated"
+      },
+      {
+        "raw": "Feodor III",
+        "name": "Feodor",
+        "start": 1676,
+        "end": 1682,
+        "table": "curated"
+      },
+      {
+        "raw": "Peter I",
+        "name": "Peter",
+        "start": 1682,
+        "end": 1725,
+        "table": "curated"
+      },
+      {
+        "raw": "Catherine I",
+        "name": "Catherine",
+        "start": 1724,
+        "end": 1727,
+        "table": "curated"
+      },
+      {
+        "raw": "Peter II",
+        "name": "Peter",
+        "start": 1727,
+        "end": 1730,
+        "table": "curated"
+      },
+      {
+        "raw": "Anna",
+        "name": "Anna",
+        "start": 1730,
+        "end": 1740,
+        "table": "curated"
+      },
+      {
+        "raw": "Ivan VI",
+        "name": "Ivan",
+        "start": 1740,
+        "end": 1741,
+        "table": "curated"
+      },
+      {
+        "raw": "Elizabeth",
+        "name": "Elizabeth",
+        "start": 1741,
+        "end": 1762,
+        "table": "curated"
+      },
+      {
+        "raw": "Peter III",
+        "name": "Peter",
+        "start": 1762,
+        "end": 1762,
+        "table": "curated"
+      },
+      {
+        "raw": "Catherine II",
+        "name": "Catherine",
+        "start": 1762,
+        "end": 1796,
+        "table": "curated"
+      },
+      {
+        "raw": "Paul I",
+        "name": "Paul",
+        "start": 1796,
+        "end": 1801,
+        "table": "curated"
+      },
+      {
+        "raw": "Alexander I",
+        "name": "Alexander",
+        "start": 1801,
+        "end": 1825,
+        "table": "curated"
+      },
+      {
+        "raw": "Nicholas I",
+        "name": "Nicholas",
+        "start": 1825,
+        "end": 1855,
+        "table": "curated"
+      },
+      {
+        "raw": "Alexander II",
+        "name": "Alexander",
+        "start": 1855,
+        "end": 1881,
+        "table": "curated"
+      },
+      {
+        "raw": "Alexander III",
+        "name": "Alexander",
+        "start": 1881,
+        "end": 1894,
+        "table": "curated"
+      },
+      {
+        "raw": "Nicholas II",
+        "name": "Nicholas",
+        "start": 1894,
+        "end": 1917,
+        "table": "curated"
+      }
+    ],
+    "HRR": [
+      {
+        "raw": "Otto I",
+        "name": "Otto",
+        "start": 962,
+        "end": 973,
+        "table": "curated"
+      },
+      {
+        "raw": "Otto II",
+        "name": "Otto",
+        "start": 967,
+        "end": 983,
+        "table": "curated"
+      },
+      {
+        "raw": "Otto III",
+        "name": "Otto",
+        "start": 996,
+        "end": 1002,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry II",
+        "name": "Henry",
+        "start": 1014,
+        "end": 1024,
+        "table": "curated"
+      },
+      {
+        "raw": "Conrad II",
+        "name": "Conrad",
+        "start": 1027,
+        "end": 1039,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry III",
+        "name": "Henry",
+        "start": 1046,
+        "end": 1056,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry IV",
+        "name": "Henry",
+        "start": 1056,
+        "end": 1106,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry V",
+        "name": "Henry",
+        "start": 1111,
+        "end": 1125,
+        "table": "curated"
+      },
+      {
+        "raw": "Lothair II",
+        "name": "Lothair",
+        "start": 1133,
+        "end": 1137,
+        "table": "curated"
+      },
+      {
+        "raw": "Frederick I",
+        "name": "Frederick",
+        "start": 1155,
+        "end": 1190,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry VI",
+        "name": "Henry",
+        "start": 1191,
+        "end": 1197,
+        "table": "curated"
+      },
+      {
+        "raw": "Otto IV",
+        "name": "Otto",
+        "start": 1209,
+        "end": 1215,
+        "table": "curated"
+      },
+      {
+        "raw": "Frederick II",
+        "name": "Frederick",
+        "start": 1220,
+        "end": 1250,
+        "table": "curated"
+      },
+      {
+        "raw": "Henry VII",
+        "name": "Henry",
+        "start": 1312,
+        "end": 1313,
+        "table": "curated"
+      },
+      {
+        "raw": "Louis IV",
+        "name": "Louis",
+        "start": 1328,
+        "end": 1347,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles IV",
+        "name": "Charles",
+        "start": 1355,
+        "end": 1378,
+        "table": "curated"
+      },
+      {
+        "raw": "Sigismund",
+        "name": "Sigismund",
+        "start": 1433,
+        "end": 1437,
+        "table": "curated"
+      },
+      {
+        "raw": "Frederick III",
+        "name": "Frederick",
+        "start": 1452,
+        "end": 1493,
+        "table": "curated"
+      },
+      {
+        "raw": "Maximilian I",
+        "name": "Maximilian",
+        "start": 1508,
+        "end": 1519,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles V",
+        "name": "Charles",
+        "start": 1519,
+        "end": 1556,
+        "table": "curated"
+      },
+      {
+        "raw": "Ferdinand I",
+        "name": "Ferdinand",
+        "start": 1556,
+        "end": 1564,
+        "table": "curated"
+      },
+      {
+        "raw": "Maximilian II",
+        "name": "Maximilian",
+        "start": 1564,
+        "end": 1576,
+        "table": "curated"
+      },
+      {
+        "raw": "Rudolf II",
+        "name": "Rudolf",
+        "start": 1576,
+        "end": 1612,
+        "table": "curated"
+      },
+      {
+        "raw": "Matthias",
+        "name": "Matthias",
+        "start": 1612,
+        "end": 1619,
+        "table": "curated"
+      },
+      {
+        "raw": "Ferdinand II",
+        "name": "Ferdinand",
+        "start": 1619,
+        "end": 1637,
+        "table": "curated"
+      },
+      {
+        "raw": "Ferdinand III",
+        "name": "Ferdinand",
+        "start": 1637,
+        "end": 1657,
+        "table": "curated"
+      },
+      {
+        "raw": "Leopold I",
+        "name": "Leopold",
+        "start": 1658,
+        "end": 1705,
+        "table": "curated"
+      },
+      {
+        "raw": "Joseph I",
+        "name": "Joseph",
+        "start": 1705,
+        "end": 1711,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles VI",
+        "name": "Charles",
+        "start": 1711,
+        "end": 1740,
+        "table": "curated"
+      },
+      {
+        "raw": "Charles VII",
+        "name": "Charles",
+        "start": 1742,
+        "end": 1745,
+        "table": "curated"
+      },
+      {
+        "raw": "Francis I",
+        "name": "Francis",
+        "start": 1745,
+        "end": 1765,
+        "table": "curated"
+      },
+      {
+        "raw": "Joseph II",
+        "name": "Joseph",
+        "start": 1765,
+        "end": 1790,
+        "table": "curated"
+      },
+      {
+        "raw": "Leopold II",
+        "name": "Leopold",
+        "start": 1790,
+        "end": 1792,
+        "table": "curated"
+      },
+      {
+        "raw": "Francis II",
+        "name": "Francis",
+        "start": 1792,
+        "end": 1806,
+        "table": "curated"
+      }
+    ]
+  }
+}

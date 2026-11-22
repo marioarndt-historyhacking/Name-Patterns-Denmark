@@ -1,0 +1,24 @@
+{
+  "n": 34,
+  "definition": "Einjahres-Toleranz; automatische Suche über Blocklänge und 0–2 Zwischenkönige; identische Namensfolge und konstanter Amtsantritts-Zeitversatz für alle korrespondierenden Positionen",
+  "observed_max_length": 3,
+  "hits": [
+    {
+      "length": 3,
+      "gap": 2,
+      "start1": 2,
+      "start2": 7,
+      "year_shift": 62
+    }
+  ],
+  "B": 200000,
+  "seed": 20261029,
+  "exceed": 184,
+  "p_search_corrected": 0.0009249953750231249,
+  "null_distribution": {
+    "0": 186906,
+    "2": 12910,
+    "3": 184
+  },
+  "date_note": "Früheste Jahreswerte verwendet: Harald I 958 aus 958/64; Knut II 1018 aus 1018/19."
+}

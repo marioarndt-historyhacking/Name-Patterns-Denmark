@@ -1,0 +1,123 @@
+{
+  "n": 26,
+  "age_method": "Jahresalter: Todesjahr minus Geburtsjahr; Tage und Monate bleiben unberücksichtigt",
+  "same_name_age_matches": [
+    {
+      "name_family": "Knut",
+      "ruler1": "Knut II. der Große",
+      "age1": [
+        40,
+        40
+      ],
+      "ruler2": "Knut VI.",
+      "age2": [
+        39,
+        40
+      ],
+      "intervals_overlap": true,
+      "year_difference_close": true
+    },
+    {
+      "name_family": "Erik",
+      "ruler1": "Erik II. Emune",
+      "age1": [
+        37,
+        37
+      ],
+      "ruler2": "Erik V.",
+      "age2": [
+        37,
+        37
+      ],
+      "intervals_overlap": true,
+      "year_difference_close": true
+    },
+    {
+      "name_family": "Erik",
+      "ruler1": "Erik III. Lam",
+      "age1": [
+        41,
+        46
+      ],
+      "ruler2": "Erik VI.",
+      "age2": [
+        45,
+        45
+      ],
+      "intervals_overlap": true,
+      "year_difference_close": false
+    },
+    {
+      "name_family": "Waldemar",
+      "ruler1": "Waldemar I. der Große",
+      "age1": [
+        51,
+        51
+      ],
+      "ruler2": "Waldemar III.",
+      "age2": [
+        50,
+        50
+      ],
+      "intervals_overlap": false,
+      "year_difference_close": true
+    }
+  ],
+  "birth_vs_earlier_accession_matches_within_1_year": [
+    {
+      "ruler_born": "Hardiknut",
+      "birth": [
+        1018,
+        1019
+      ],
+      "earlier_ruler": "Knut II. der Große",
+      "accession": 1018,
+      "exact_interval_match": true,
+      "distance_years": 0
+    },
+    {
+      "ruler_born": "Harald III. Hen",
+      "birth": [
+        1041,
+        1041
+      ],
+      "earlier_ruler": "Magnus I. der Gute",
+      "accession": 1042,
+      "exact_interval_match": false,
+      "distance_years": 1
+    },
+    {
+      "ruler_born": "Knut IV. der Heilige",
+      "birth": [
+        1043,
+        1043
+      ],
+      "earlier_ruler": "Magnus I. der Gute",
+      "accession": 1042,
+      "exact_interval_match": false,
+      "distance_years": 1
+    },
+    {
+      "ruler_born": "Erik III. Lam",
+      "birth": [
+        1100,
+        1105
+      ],
+      "earlier_ruler": "Niels",
+      "accession": 1104,
+      "exact_interval_match": true,
+      "distance_years": 0
+    },
+    {
+      "ruler_born": "Erik V.",
+      "birth": [
+        1249,
+        1249
+      ],
+      "earlier_ruler": "Abel",
+      "accession": 1250,
+      "exact_interval_match": false,
+      "distance_years": 1
+    }
+  ]
+}

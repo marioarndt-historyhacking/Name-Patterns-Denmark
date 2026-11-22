@@ -1,0 +1,10 @@
+{
+  "n_with_usable_age": 24,
+  "observed_overlap_pairs": 3,
+  "observed_close_midpoint_pairs": 3,
+  "B": 200000,
+  "seed": 20261029,
+  "p_overlap": 0.19067904660476698,
+  "p_close_midpoint": 0.27519862400687994,
+  "warning": "Explorativ; ausschließlich Todesjahr minus Geburtsjahr, ohne Tage oder Monate; Intervalle beruhen teilweise auf circa-Angaben."
+}

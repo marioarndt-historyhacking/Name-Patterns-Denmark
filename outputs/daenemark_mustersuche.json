@@ -1,0 +1,828 @@
+{
+  "definition": {
+    "max_luecke": 2,
+    "normalisierung": "Ordnungszahlen/Beinamen entfernt; Frederik=Friedrich"
+  },
+  "n": 54,
+  "sequenz": [
+    "Gorm",
+    "Harald",
+    "Sven",
+    "Harald",
+    "Knut",
+    "Hardiknut",
+    "Magnus",
+    "Sven",
+    "Harald",
+    "Knut",
+    "Olaf",
+    "Erik",
+    "Niels",
+    "Erik",
+    "Erik",
+    "Sven",
+    "Knut",
+    "Waldemar",
+    "Knut",
+    "Waldemar",
+    "Erik",
+    "Abel",
+    "Christoph",
+    "Erik",
+    "Erik",
+    "Christoph",
+    "Waldemar",
+    "Waldemar",
+    "Olaf",
+    "Margarethe",
+    "Erik",
+    "Christoph",
+    "Christian",
+    "Johann",
+    "Christian",
+    "Friedrich",
+    "Christian",
+    "Friedrich",
+    "Christian",
+    "Friedrich",
+    "Christian",
+    "Friedrich",
+    "Christian",
+    "Friedrich",
+    "Christian",
+    "Friedrich",
+    "Christian",
+    "Friedrich",
+    "Christian",
+    "Friedrich",
+    "Christian",
+    "Friedrich",
+    "Margrethe",
+    "Friedrich"
+  ],
+  "maximale_blocklaenge": 8,
+  "treffer": [
+    {
+      "start1": 34,
+      "end1": 41,
+      "start2": 42,
+      "end2": 49,
+      "laenge": 8,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 35,
+      "end1": 42,
+      "start2": 43,
+      "end2": 50,
+      "laenge": 8,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 36,
+      "end1": 43,
+      "start2": 44,
+      "end2": 51,
+      "laenge": 8,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 34,
+      "end1": 41,
+      "start2": 44,
+      "end2": 51,
+      "laenge": 8,
+      "luecke": 2,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 37,
+      "end1": 43,
+      "start2": 45,
+      "end2": 51,
+      "laenge": 7,
+      "luecke": 1,
+      "muster": [
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 34,
+      "end1": 39,
+      "start2": 40,
+      "end2": 45,
+      "laenge": 6,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 35,
+      "end1": 40,
+      "start2": 41,
+      "end2": 46,
+      "laenge": 6,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 36,
+      "end1": 41,
+      "start2": 42,
+      "end2": 47,
+      "laenge": 6,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 37,
+      "end1": 42,
+      "start2": 43,
+      "end2": 48,
+      "laenge": 6,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 38,
+      "end1": 43,
+      "start2": 44,
+      "end2": 49,
+      "laenge": 6,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 39,
+      "end1": 44,
+      "start2": 45,
+      "end2": 50,
+      "laenge": 6,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 40,
+      "end1": 45,
+      "start2": 46,
+      "end2": 51,
+      "laenge": 6,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 38,
+      "end1": 43,
+      "start2": 46,
+      "end2": 51,
+      "laenge": 6,
+      "luecke": 2,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 41,
+      "end1": 45,
+      "start2": 47,
+      "end2": 51,
+      "laenge": 5,
+      "luecke": 1,
+      "muster": [
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 34,
+      "end1": 37,
+      "start2": 38,
+      "end2": 41,
+      "laenge": 4,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 35,
+      "end1": 38,
+      "start2": 39,
+      "end2": 42,
+      "laenge": 4,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 36,
+      "end1": 39,
+      "start2": 40,
+      "end2": 43,
+      "laenge": 4,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 37,
+      "end1": 40,
+      "start2": 41,
+      "end2": 44,
+      "laenge": 4,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 38,
+      "end1": 41,
+      "start2": 42,
+      "end2": 45,
+      "laenge": 4,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 39,
+      "end1": 42,
+      "start2": 43,
+      "end2": 46,
+      "laenge": 4,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 40,
+      "end1": 43,
+      "start2": 44,
+      "end2": 47,
+      "laenge": 4,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 41,
+      "end1": 44,
+      "start2": 45,
+      "end2": 48,
+      "laenge": 4,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 42,
+      "end1": 45,
+      "start2": 46,
+      "end2": 49,
+      "laenge": 4,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 43,
+      "end1": 46,
+      "start2": 47,
+      "end2": 50,
+      "laenge": 4,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian",
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 44,
+      "end1": 47,
+      "start2": 48,
+      "end2": 51,
+      "laenge": 4,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 42,
+      "end1": 45,
+      "start2": 48,
+      "end2": 51,
+      "laenge": 4,
+      "luecke": 2,
+      "muster": [
+        "Christian",
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 45,
+      "end1": 47,
+      "start2": 49,
+      "end2": 51,
+      "laenge": 3,
+      "luecke": 1,
+      "muster": [
+        "Friedrich",
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 2,
+      "end1": 4,
+      "start2": 7,
+      "end2": 9,
+      "laenge": 3,
+      "luecke": 2,
+      "muster": [
+        "Sven",
+        "Harald",
+        "Knut"
+      ]
+    },
+    {
+      "start1": 16,
+      "end1": 17,
+      "start2": 18,
+      "end2": 19,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Knut",
+        "Waldemar"
+      ]
+    },
+    {
+      "start1": 34,
+      "end1": 35,
+      "start2": 36,
+      "end2": 37,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 35,
+      "end1": 36,
+      "start2": 37,
+      "end2": 38,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 36,
+      "end1": 37,
+      "start2": 38,
+      "end2": 39,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 37,
+      "end1": 38,
+      "start2": 39,
+      "end2": 40,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 38,
+      "end1": 39,
+      "start2": 40,
+      "end2": 41,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 39,
+      "end1": 40,
+      "start2": 41,
+      "end2": 42,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 40,
+      "end1": 41,
+      "start2": 42,
+      "end2": 43,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 41,
+      "end1": 42,
+      "start2": 43,
+      "end2": 44,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 42,
+      "end1": 43,
+      "start2": 44,
+      "end2": 45,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 43,
+      "end1": 44,
+      "start2": 45,
+      "end2": 46,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 44,
+      "end1": 45,
+      "start2": 46,
+      "end2": 47,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 45,
+      "end1": 46,
+      "start2": 47,
+      "end2": 48,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 46,
+      "end1": 47,
+      "start2": 48,
+      "end2": 49,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 47,
+      "end1": 48,
+      "start2": 49,
+      "end2": 50,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Friedrich",
+        "Christian"
+      ]
+    },
+    {
+      "start1": 48,
+      "end1": 49,
+      "start2": 50,
+      "end2": 51,
+      "laenge": 2,
+      "luecke": 0,
+      "muster": [
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 46,
+      "end1": 47,
+      "start2": 50,
+      "end2": 51,
+      "laenge": 2,
+      "luecke": 2,
+      "muster": [
+        "Christian",
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 13,
+      "end1": 13,
+      "start2": 14,
+      "end2": 14,
+      "laenge": 1,
+      "luecke": 0,
+      "muster": [
+        "Erik"
+      ]
+    },
+    {
+      "start1": 23,
+      "end1": 23,
+      "start2": 24,
+      "end2": 24,
+      "laenge": 1,
+      "luecke": 0,
+      "muster": [
+        "Erik"
+      ]
+    },
+    {
+      "start1": 26,
+      "end1": 26,
+      "start2": 27,
+      "end2": 27,
+      "laenge": 1,
+      "luecke": 0,
+      "muster": [
+        "Waldemar"
+      ]
+    },
+    {
+      "start1": 1,
+      "end1": 1,
+      "start2": 3,
+      "end2": 3,
+      "laenge": 1,
+      "luecke": 1,
+      "muster": [
+        "Harald"
+      ]
+    },
+    {
+      "start1": 11,
+      "end1": 11,
+      "start2": 13,
+      "end2": 13,
+      "laenge": 1,
+      "luecke": 1,
+      "muster": [
+        "Erik"
+      ]
+    },
+    {
+      "start1": 17,
+      "end1": 17,
+      "start2": 19,
+      "end2": 19,
+      "laenge": 1,
+      "luecke": 1,
+      "muster": [
+        "Waldemar"
+      ]
+    },
+    {
+      "start1": 32,
+      "end1": 32,
+      "start2": 34,
+      "end2": 34,
+      "laenge": 1,
+      "luecke": 1,
+      "muster": [
+        "Christian"
+      ]
+    },
+    {
+      "start1": 49,
+      "end1": 49,
+      "start2": 51,
+      "end2": 51,
+      "laenge": 1,
+      "luecke": 1,
+      "muster": [
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 51,
+      "end1": 51,
+      "start2": 53,
+      "end2": 53,
+      "laenge": 1,
+      "luecke": 1,
+      "muster": [
+        "Friedrich"
+      ]
+    },
+    {
+      "start1": 11,
+      "end1": 11,
+      "start2": 14,
+      "end2": 14,
+      "laenge": 1,
+      "luecke": 2,
+      "muster": [
+        "Erik"
+      ]
+    },
+    {
+      "start1": 20,
+      "end1": 20,
+      "start2": 23,
+      "end2": 23,
+      "laenge": 1,
+      "luecke": 2,
+      "muster": [
+        "Erik"
+      ]
+    },
+    {
+      "start1": 22,
+      "end1": 22,
+      "start2": 25,
+      "end2": 25,
+      "laenge": 1,
+      "luecke": 2,
+      "muster": [
+        "Christoph"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "methode": "Jahresgrenzen: Endjahr minus Anfangsjahr; bei mehreren Amtszeiten Summe der Teilzeiten. Knut II beginnt gemäß Festlegung 1018.",
+  "gruppen": {
+    "Christian": [
+      {
+        "herrscher": "Christian I. von Oldenburg",
+        "regierungszeit": "1448–1481",
+        "dauer_jahre": 33,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Christian II.",
+        "regierungszeit": "1513–1523",
+        "dauer_jahre": 10,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Christian III.",
+        "regierungszeit": "1534–1559",
+        "dauer_jahre": 25,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Christian IV.",
+        "regierungszeit": "1588–1648",
+        "dauer_jahre": 60,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Christian V.",
+        "regierungszeit": "1670–1699",
+        "dauer_jahre": 29,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Christian VI.",
+        "regierungszeit": "1730–1746",
+        "dauer_jahre": 16,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Christian VII.",
+        "regierungszeit": "1766–1808",
+        "dauer_jahre": 42,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Christian VIII.",
+        "regierungszeit": "1839–1848",
+        "dauer_jahre": 9,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Christian IX.",
+        "regierungszeit": "1863–1906",
+        "dauer_jahre": 43,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Christian X.",
+        "regierungszeit": "1912–1947",
+        "dauer_jahre": 35,
+        "bis_1329": false
+      }
+    ],
+    "Christoph": [
+      {
+        "herrscher": "Christoph I.",
+        "regierungszeit": "1252–1259",
+        "dauer_jahre": 7,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Christoph II.",
+        "regierungszeit": "1320–1326 und 1329–1332",
+        "dauer_jahre": 9,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Christoph III. von Bayern",
+        "regierungszeit": "1440–1448",
+        "dauer_jahre": 8,
+        "bis_1329": false
+      }
+    ],
+    "Erik": [
+      {
+        "herrscher": "Erik I. Ejegod Immergut",
+        "regierungszeit": "1095–1103",
+        "dauer_jahre": 8,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Erik II. Emune Denkwürdig",
+        "regierungszeit": "1134–1137",
+        "dauer_jahre": 3,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Erik III. Lam Schaf",
+        "regierungszeit": "1137–1146",
+        "dauer_jahre": 9,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Erik IV. Plovpenning Pflugpfennig",
+        "regierungszeit": "1241–1250",
+        "dauer_jahre": 9,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Erik V. Klipping Klippe",
+        "regierungszeit": "1259–1286",
+        "dauer_jahre": 27,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Erik VI. Menved Mannmit",
+        "regierungszeit": "1286–1319",
+        "dauer_jahre": 33,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Erik VII. Erich der Pommer",
+        "regierungszeit": "1396–1439",
+        "dauer_jahre": 43,
+        "bis_1329": false
+      }
+    ],
+    "Frederik": [
+      {
+        "herrscher": "Friedrich I.",
+        "regierungszeit": "1523–1533",
+        "dauer_jahre": 10,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Friedrich II.",
+        "regierungszeit": "1559–1588",
+        "dauer_jahre": 29,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Friedrich III.",
+        "regierungszeit": "1648–1670",
+        "dauer_jahre": 22,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Friedrich IV.",
+        "regierungszeit": "1699–1730",
+        "dauer_jahre": 31,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Friedrich V.",
+        "regierungszeit": "1746–1766",
+        "dauer_jahre": 20,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Friedrich VI.",
+        "regierungszeit": "1808–1839",
+        "dauer_jahre": 31,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Friedrich VII.",
+        "regierungszeit": "1848–1863",
+        "dauer_jahre": 15,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Friedrich VIII.",
+        "regierungszeit": "1906–1912",
+        "dauer_jahre": 6,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Frederik IX.",
+        "regierungszeit": "1947–1972",
+        "dauer_jahre": 25,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Frederik X.",
+        "regierungszeit": "seit 2024",
+        "dauer_jahre": null,
+        "bis_1329": false
+      }
+    ],
+    "Harald": [
+      {
+        "herrscher": "Harald I. Blauzahn",
+        "regierungszeit": "958/64–985",
+        "dauer_jahre": 27,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Harald II. Svendsen",
+        "regierungszeit": "1014–1018",
+        "dauer_jahre": 4,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Harald III. Hen",
+        "regierungszeit": "1076–1080",
+        "dauer_jahre": 4,
+        "bis_1329": true
+      }
+    ],
+    "Knut": [
+      {
+        "herrscher": "Knut II. den Store der Große",
+        "regierungszeit": "1018/19–1035",
+        "dauer_jahre": 17,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Hardiknut",
+        "regierungszeit": "1035–1042",
+        "dauer_jahre": 7,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Knut IV. der Heilige",
+        "regierungszeit": "1080–1086",
+        "dauer_jahre": 6,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Knut V. Magnusson",
+        "regierungszeit": "1146–1157",
+        "dauer_jahre": 11,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Knut VI.",
+        "regierungszeit": "1182–1202",
+        "dauer_jahre": 20,
+        "bis_1329": true
+      }
+    ],
+    "Margrethe": [
+      {
+        "herrscher": "Margarethe I.",
+        "regierungszeit": "1387–1412",
+        "dauer_jahre": 25,
+        "bis_1329": false
+      },
+      {
+        "herrscher": "Margrethe II.",
+        "regierungszeit": "1972–2024",
+        "dauer_jahre": 52,
+        "bis_1329": false
+      }
+    ],
+    "Olaf": [
+      {
+        "herrscher": "Olaf I. Hunger",
+        "regierungszeit": "1086–1095",
+        "dauer_jahre": 9,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Olaf II.",
+        "regierungszeit": "1376–1387",
+        "dauer_jahre": 11,
+        "bis_1329": false
+      }
+    ],
+    "Sven": [
+      {
+        "herrscher": "Sven I. Gabelbart",
+        "regierungszeit": "985–1014",
+        "dauer_jahre": 29,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Sven II. Estridsson",
+        "regierungszeit": "1047–1076",
+        "dauer_jahre": 29,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Sven III. Grate",
+        "regierungszeit": "1146–1157",
+        "dauer_jahre": 11,
+        "bis_1329": true
+      }
+    ],
+    "Waldemar": [
+      {
+        "herrscher": "Waldemar I. der Große",
+        "regierungszeit": "1154–1182",
+        "dauer_jahre": 28,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Waldemar II. Sejr der Sieger",
+        "regierungszeit": "1202–1241",
+        "dauer_jahre": 39,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Waldemar III.",
+        "regierungszeit": "1326–1329",
+        "dauer_jahre": 3,
+        "bis_1329": true
+      },
+      {
+        "herrscher": "Waldemar IV. Atterdag Andertag",
+        "regierungszeit": "1340–1375",
+        "dauer_jahre": 35,
+        "bis_1329": false
+      }
+    ]
+  },
+  "exakt_gleiche_paare": [
+    {
+      "regnalname": "Harald",
+      "herrscher_1": "Harald II. Svendsen",
+      "dauer_1": 4,
+      "herrscher_2": "Harald III. Hen",
+      "dauer_2": 4,
+      "differenz_jahre": 0,
+      "beide_bis_1329": true
+    },
+    {
+      "regnalname": "Sven",
+      "herrscher_1": "Sven I. Gabelbart",
+      "dauer_1": 29,
+      "herrscher_2": "Sven II. Estridsson",
+      "dauer_2": 29,
+      "differenz_jahre": 0,
+      "beide_bis_1329": true
+    },
+    {
+      "regnalname": "Erik",
+      "herrscher_1": "Erik III. Lam Schaf",
+      "dauer_1": 9,
+      "herrscher_2": "Erik IV. Plovpenning Pflugpfennig",
+      "dauer_2": 9,
+      "differenz_jahre": 0,
+      "beide_bis_1329": true
+    },
+    {
+      "regnalname": "Frederik",
+      "herrscher_1": "Friedrich IV.",
+      "dauer_1": 31,
+      "herrscher_2": "Friedrich VI.",
+      "dauer_2": 31,
+      "differenz_jahre": 0,
+      "beide_bis_1329": false
+    }
+  ],
+  "bis_1329_exakt": [
+    {
+      "regnalname": "Harald",
+      "herrscher_1": "Harald II. Svendsen",
+      "dauer_1": 4,
+      "herrscher_2": "Harald III. Hen",
+      "dauer_2": 4,
+      "differenz_jahre": 0,
+      "beide_bis_1329": true
+    },
+    {
+      "regnalname": "Sven",
+      "herrscher_1": "Sven I. Gabelbart",
+      "dauer_1": 29,
+      "herrscher_2": "Sven II. Estridsson",
+      "dauer_2": 29,
+      "differenz_jahre": 0,
+      "beide_bis_1329": true
+    },
+    {
+      "regnalname": "Erik",
+      "herrscher_1": "Erik III. Lam Schaf",
+      "dauer_1": 9,
+      "herrscher_2": "Erik IV. Plovpenning Pflugpfennig",
+      "dauer_2": 9,
+      "differenz_jahre": 0,
+      "beide_bis_1329": true
+    }
+  ],
+  "bis_1329_differenz_ein_jahr": [
+    {
+      "regnalname": "Knut",
+      "herrscher_1": "Hardiknut",
+      "dauer_1": 7,
+      "herrscher_2": "Knut IV. der Heilige",
+      "dauer_2": 6,
+      "differenz_jahre": 1,
+      "beide_bis_1329": true
+    },
+    {
+      "regnalname": "Erik",
+      "herrscher_1": "Erik I. Ejegod Immergut",
+      "dauer_1": 8,
+      "herrscher_2": "Erik III. Lam Schaf",
+      "dauer_2": 9,
+      "differenz_jahre": 1,
+      "beide_bis_1329": true
+    },
+    {
+      "regnalname": "Erik",
+      "herrscher_1": "Erik I. Ejegod Immergut",
+      "dauer_1": 8,
+      "herrscher_2": "Erik IV. Plovpenning Pflugpfennig",
+      "dauer_2": 9,
+      "differenz_jahre": 1,
+      "beide_bis_1329": true
+    }
+  ]
+}

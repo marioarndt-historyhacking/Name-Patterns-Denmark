@@ -1,0 +1,111 @@
+{
+  "n": 34,
+  "B": 200000,
+  "seed": 20261029,
+  "searched_lengths": [
+    2,
+    34
+  ],
+  "definition": "Alle Fensterlängen automatisch; Statistik je Länge = Zahl der Fenster mit gleichem normalisiertem Randnamen; Min-p-Korrektur über sämtliche Längen",
+  "best_raw_p": 0.04578977105114474,
+  "best_lengths": [
+    {
+      "length": 10,
+      "count": 5,
+      "p_length_raw": 0.04578977105114474
+    }
+  ],
+  "p_adjusted_over_lengths": 0.5697221513892431,
+  "all_observed_lengths": [
+    {
+      "length": 2,
+      "count": 4,
+      "p_length_raw": 0.29138854305728473
+    },
+    {
+      "length": 3,
+      "count": 4,
+      "p_length_raw": 0.2737436312818436
+    },
+    {
+      "length": 4,
+      "count": 3,
+      "p_length_raw": 0.49489252553737234
+    },
+    {
+      "length": 5,
+      "count": 2,
+      "p_length_raw": 0.7454562727186365
+    },
+    {
+      "length": 6,
+      "count": 3,
+      "p_length_raw": 0.4470327648361758
+    },
+    {
+      "length": 7,
+      "count": 3,
+      "p_length_raw": 0.4221328893355533
+    },
+    {
+      "length": 8,
+      "count": 5,
+      "p_length_raw": 0.06173969130154349
+    },
+    {
+      "length": 9,
+      "count": 2,
+      "p_length_raw": 0.6648166759166204
+    },
+    {
+      "length": 10,
+      "count": 5,
+      "p_length_raw": 0.04578977105114474
+    },
+    {
+      "length": 11,
+      "count": 4,
+      "p_length_raw": 0.12741436292818537
+    },
+    {
+      "length": 12,
+      "count": 2,
+      "p_length_raw": 0.5970470147649262
+    },
+    {
+      "length": 13,
+      "count": 2,
+      "p_length_raw": 0.5701921490392549
+    },
+    {
+      "length": 14,
+      "count": 3,
+      "p_length_raw": 0.25113374433127833
+    },
+    {
+      "length": 15,
+      "count": 1,
+      "p_length_raw": 0.839760801195994
+    },
+    {
+      "length": 17,
+      "count": 1,
+      "p_length_raw": 0.8073509632451837
+    },
+    {
+      "length": 18,
+      "count": 1,
+      "p_length_raw": 0.7876510617446912
+    },
+    {
+      "length": 19,
+      "count": 1,
+      "p_length_raw": 0.7667561662191689
+    },
+    {
+      "length": 20,
+      "count": 1,
+      "p_length_raw": 0.7437162814185929
+    }
+  ]
+}

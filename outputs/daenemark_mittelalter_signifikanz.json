@@ -1,0 +1,17 @@
+{
+  "n": 34,
+  "B": 200000,
+  "seed": 20261029,
+  "observed_max_block": 3,
+  "exceed": 7876,
+  "p_raw_search_corrected": 0.03938480307598462,
+  "null_distribution": {
+    "1": 110353,
+    "2": 81770,
+    "3": 7340,
+    "4": 505,
+    "5": 31,
+    "0": 1
+  },
+  "normalization": "Hardiknut=Knut; Frederik=Friedrich; Ordnungszahlen/Beinamen entfernt"
+}
